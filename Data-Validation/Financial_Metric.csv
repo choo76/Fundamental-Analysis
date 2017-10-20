@@ -1,0 +1,121 @@
+symbol,source,period,metric,value
+NVDA,Morningstar,2016-07,Operating cash flow,184
+NVDA,Morningstar,2016-07,Free cash flow,152
+NVDA,Morningstar,2016-10,Operating cash flow,458
+NVDA,Morningstar,2016-10,Free cash flow,420
+NVDA,Morningstar,2017-01,Operating cash flow,721
+NVDA,Morningstar,2017-01,Free cash flow,670
+NVDA,Morningstar,2017-04,Operating cash flow,282
+NVDA,Morningstar,2017-04,Free cash flow,228
+NVDA,Morningstar,2017-07,Operating cash flow,705
+NVDA,Morningstar,2017-07,Free cash flow,651
+NVDA,Morningstar,2016-07,Revenue,1428
+NVDA,Morningstar,2016-07,Gross profit,826
+NVDA,Morningstar,2016-07,Operating income,317
+NVDA,Morningstar,2016-07,Net income,253
+NVDA,Morningstar,2016-07,EPS,0.47
+NVDA,Morningstar,2016-07,EBITDA,376
+NVDA,Morningstar,2016-10,Revenue,2004
+NVDA,Morningstar,2016-10,Gross profit,1183
+NVDA,Morningstar,2016-10,Operating income,639
+NVDA,Morningstar,2016-10,Net income,542
+NVDA,Morningstar,2016-10,EPS,1.01
+NVDA,Morningstar,2016-10,EBITDA,685
+NVDA,Morningstar,2017-01,Revenue,2173
+NVDA,Morningstar,2017-01,Gross profit,1303
+NVDA,Morningstar,2017-01,Operating income,733
+NVDA,Morningstar,2017-01,Net income,654
+NVDA,Morningstar,2017-01,EPS,1.19
+NVDA,Morningstar,2017-01,EBITDA,791
+NVDA,Morningstar,2017-04,Revenue,1937
+NVDA,Morningstar,2017-04,Gross profit,1150
+NVDA,Morningstar,2017-04,Operating income,554
+NVDA,Morningstar,2017-04,Net income,507
+NVDA,Morningstar,2017-04,EPS,0.86
+NVDA,Morningstar,2017-04,EBITDA,599
+NVDA,Morningstar,2017-07,Revenue,2230
+NVDA,Morningstar,2017-07,Gross profit,1302
+NVDA,Morningstar,2017-07,Operating income,688
+NVDA,Morningstar,2017-07,Net income,583
+NVDA,Morningstar,2017-07,EPS,0.98
+NVDA,Morningstar,2017-07,EBITDA,748
+NVDA,ADVFN,2016-07,total revenue,1428
+NVDA,ADVFN,2016-07,gross operating profit,826
+NVDA,ADVFN,2016-07,operating income,317
+NVDA,ADVFN,2016-07,EBITDA,376
+NVDA,ADVFN,2016-07,total net income,253
+NVDA,ADVFN,2016-07,Basic EPS - Total,0.47
+NVDA,ADVFN,2016-07,free cash flow,152
+NVDA,ADVFN,2016-07,net cash from total operating activities,184
+NVDA,ADVFN,2016-10,total revenue,2004
+NVDA,ADVFN,2016-10,gross operating profit,1183
+NVDA,ADVFN,2016-10,operating income,639
+NVDA,ADVFN,2016-10,EBITDA,685
+NVDA,ADVFN,2016-10,total net income,542
+NVDA,ADVFN,2016-10,Basic EPS - Total,1.01
+NVDA,ADVFN,2016-10,free cash flow,420
+NVDA,ADVFN,2016-10,net cash from total operating activities,458
+NVDA,ADVFN,2017-01,total revenue,2173
+NVDA,ADVFN,2017-01,gross operating profit,1303
+NVDA,ADVFN,2017-01,operating income,733
+NVDA,ADVFN,2017-01,EBITDA,791
+NVDA,ADVFN,2017-01,total net income,654
+NVDA,ADVFN,2017-01,Basic EPS - Total,1.19
+NVDA,ADVFN,2017-01,free cash flow,670
+NVDA,ADVFN,2017-01,net cash from total operating activities,721
+NVDA,ADVFN,2017-04,total revenue,1937
+NVDA,ADVFN,2017-04,gross operating profit,1150
+NVDA,ADVFN,2017-04,operating income,554
+NVDA,ADVFN,2017-04,EBITDA,599
+NVDA,ADVFN,2017-04,total net income,507
+NVDA,ADVFN,2017-04,Basic EPS - Total,0.86
+NVDA,ADVFN,2017-04,free cash flow,228
+NVDA,ADVFN,2017-04,net cash from total operating activities,282
+NVDA,ADVFN,2017-07,total revenue,2230
+NVDA,ADVFN,2017-07,gross operating profit,1302
+NVDA,ADVFN,2017-07,operating income,688
+NVDA,ADVFN,2017-07,EBITDA,748
+NVDA,ADVFN,2017-07,total net income,583
+NVDA,ADVFN,2017-07,Basic EPS - Total,0.98
+NVDA,ADVFN,2017-07,free cash flow,651
+NVDA,ADVFN,2017-07,net cash from total operating activities,705
+NVDA,Stockrow,2016-07,Net Income,261
+NVDA,Stockrow,2016-07,Operating Income,317
+NVDA,Stockrow,2016-07,EPS,0.49
+NVDA,Stockrow,2016-07,EBITDA,376
+NVDA,Stockrow,2016-07,Free Cash Flow,174
+NVDA,Stockrow,2016-07,Operating Cash Flow,200
+NVDA,Stockrow,2016-07,Gross Profit,826
+NVDA,Stockrow,2016-07,Revenues,1428
+NVDA,Stockrow,2016-10,Operating Cash Flow,458
+NVDA,Stockrow,2016-10,Free Cash Flow,420
+NVDA,Stockrow,2016-10,Net Income,542
+NVDA,Stockrow,2016-10,Revenues,2004
+NVDA,Stockrow,2016-10,Gross Profit,1183
+NVDA,Stockrow,2016-10,EPS,1.01
+NVDA,Stockrow,2016-10,EBITDA,685
+NVDA,Stockrow,2016-10,Operating Income,639
+NVDA,Stockrow,2017-01,Operating Income,733
+NVDA,Stockrow,2017-01,Gross Profit,1303
+NVDA,Stockrow,2017-01,Net Income,654
+NVDA,Stockrow,2017-01,Operating Cash Flow,721
+NVDA,Stockrow,2017-01,Free Cash Flow,671
+NVDA,Stockrow,2017-01,EBITDA,791
+NVDA,Stockrow,2017-01,EPS,1.19
+NVDA,Stockrow,2017-01,Revenues,2173
+NVDA,Stockrow,2017-04,Operating Cash Flow,282
+NVDA,Stockrow,2017-04,Free Cash Flow,228
+NVDA,Stockrow,2017-04,Operating Income,554
+NVDA,Stockrow,2017-04,Net Income,507
+NVDA,Stockrow,2017-04,Revenues,1937
+NVDA,Stockrow,2017-04,Gross Profit,1150
+NVDA,Stockrow,2017-04,EPS,0.86
+NVDA,Stockrow,2017-04,EBITDA,599
+NVDA,Stockrow,2017-07,Free Cash Flow,651
+NVDA,Stockrow,2017-07,Gross Profit,1302
+NVDA,Stockrow,2017-07,EPS,0.98
+NVDA,Stockrow,2017-07,EBITDA,748
+NVDA,Stockrow,2017-07,Operating Income,688
+NVDA,Stockrow,2017-07,Net Income,583
+NVDA,Stockrow,2017-07,Operating Cash Flow,705
+NVDA,Stockrow,2017-07,Revenues,2230
