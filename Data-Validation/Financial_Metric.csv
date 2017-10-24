@@ -1,961 +1,1121 @@
-symbol,source,period,metric,value
-NVDA,Morningstar,2016-07,Operating cash flow,184
-NVDA,Morningstar,2016-07,Free cash flow,152
-NVDA,Morningstar,2016-10,Operating cash flow,458
-NVDA,Morningstar,2016-10,Free cash flow,420
-NVDA,Morningstar,2017-01,Operating cash flow,721
-NVDA,Morningstar,2017-01,Free cash flow,670
-NVDA,Morningstar,2017-04,Operating cash flow,282
-NVDA,Morningstar,2017-04,Free cash flow,228
-NVDA,Morningstar,2017-07,Operating cash flow,705
-NVDA,Morningstar,2017-07,Free cash flow,651
-NVDA,Morningstar,2016-07,Revenue,1428
-NVDA,Morningstar,2016-07,Gross profit,826
-NVDA,Morningstar,2016-07,Operating income,317
-NVDA,Morningstar,2016-07,Net income,253
-NVDA,Morningstar,2016-07,EPS,0.47
-NVDA,Morningstar,2016-07,EBITDA,376
-NVDA,Morningstar,2016-10,Revenue,2004
-NVDA,Morningstar,2016-10,Gross profit,1183
-NVDA,Morningstar,2016-10,Operating income,639
-NVDA,Morningstar,2016-10,Net income,542
-NVDA,Morningstar,2016-10,EPS,1.01
-NVDA,Morningstar,2016-10,EBITDA,685
-NVDA,Morningstar,2017-01,Revenue,2173
-NVDA,Morningstar,2017-01,Gross profit,1303
-NVDA,Morningstar,2017-01,Operating income,733
-NVDA,Morningstar,2017-01,Net income,654
-NVDA,Morningstar,2017-01,EPS,1.19
-NVDA,Morningstar,2017-01,EBITDA,791
-NVDA,Morningstar,2017-04,Revenue,1937
-NVDA,Morningstar,2017-04,Gross profit,1150
-NVDA,Morningstar,2017-04,Operating income,554
-NVDA,Morningstar,2017-04,Net income,507
-NVDA,Morningstar,2017-04,EPS,0.86
-NVDA,Morningstar,2017-04,EBITDA,599
-NVDA,Morningstar,2017-07,Revenue,2230
-NVDA,Morningstar,2017-07,Gross profit,1302
-NVDA,Morningstar,2017-07,Operating income,688
-NVDA,Morningstar,2017-07,Net income,583
-NVDA,Morningstar,2017-07,EPS,0.98
-NVDA,Morningstar,2017-07,EBITDA,748
-NVDA,ADVFN,1999-01,total revenue,0
-NVDA,ADVFN,1999-01,gross operating profit,0
-NVDA,ADVFN,1999-01,operating income,0
-NVDA,ADVFN,1999-01,EBITDA,0
-NVDA,ADVFN,1999-01,total net income,7.7
-NVDA,ADVFN,1999-01,Basic EPS - Total,0.04
-NVDA,ADVFN,1999-01,free cash flow,-9.8
-NVDA,ADVFN,1999-01,net cash from total operating activities,-1.9
-NVDA,ADVFN,1999-04,total revenue,71
-NVDA,ADVFN,1999-04,gross operating profit,26.8
-NVDA,ADVFN,1999-04,operating income,0
-NVDA,ADVFN,1999-04,EBITDA,10.7
-NVDA,ADVFN,1999-04,total net income,6.3
-NVDA,ADVFN,1999-04,Basic EPS - Total,0.02
-NVDA,ADVFN,1999-04,free cash flow,0.9
-NVDA,ADVFN,1999-04,net cash from total operating activities,3.4
-NVDA,ADVFN,1999-07,total revenue,78
-NVDA,ADVFN,1999-07,gross operating profit,30.8
-NVDA,ADVFN,1999-07,operating income,0
-NVDA,ADVFN,1999-07,EBITDA,11.9
-NVDA,ADVFN,1999-07,total net income,6.7
-NVDA,ADVFN,1999-07,Basic EPS - Total,0.02
-NVDA,ADVFN,1999-07,free cash flow,-4.6
-NVDA,ADVFN,1999-07,net cash from total operating activities,0.1
-NVDA,ADVFN,1999-10,total revenue,97
-NVDA,ADVFN,1999-10,gross operating profit,39.4
-NVDA,ADVFN,1999-10,operating income,0
-NVDA,ADVFN,1999-10,EBITDA,17.7
-NVDA,ADVFN,1999-10,total net income,10.6
-NVDA,ADVFN,1999-10,Basic EPS - Total,0.03
-NVDA,ADVFN,1999-10,free cash flow,0.7
-NVDA,ADVFN,1999-10,net cash from total operating activities,10.6
-NVDA,ADVFN,2000-01,total revenue,128.4
-NVDA,ADVFN,2000-01,gross operating profit,51.6
-NVDA,ADVFN,2000-01,operating income,0
-NVDA,ADVFN,2000-01,EBITDA,23.8
-NVDA,ADVFN,2000-01,total net income,14.6
-NVDA,ADVFN,2000-01,Basic EPS - Total,0.04
-NVDA,ADVFN,2000-01,free cash flow,4.3
-NVDA,ADVFN,2000-01,net cash from total operating activities,15.9
-NVDA,ADVFN,2000-04,total revenue,148.5
-NVDA,ADVFN,2000-04,gross operating profit,58.6
-NVDA,ADVFN,2000-04,operating income,0
-NVDA,ADVFN,2000-04,EBITDA,28.7
-NVDA,ADVFN,2000-04,total net income,18.3
-NVDA,ADVFN,2000-04,Basic EPS - Total,0.05
-NVDA,ADVFN,2000-04,free cash flow,3.2
-NVDA,ADVFN,2000-04,net cash from total operating activities,10.6
-NVDA,ADVFN,2000-07,total revenue,170.4
-NVDA,ADVFN,2000-07,gross operating profit,67.1
-NVDA,ADVFN,2000-07,operating income,0
-NVDA,ADVFN,2000-07,EBITDA,32.4
-NVDA,ADVFN,2000-07,total net income,22.5
-NVDA,ADVFN,2000-07,Basic EPS - Total,0.06
-NVDA,ADVFN,2000-07,free cash flow,19.6
-NVDA,ADVFN,2000-07,net cash from total operating activities,34.7
-NVDA,ADVFN,2000-10,total revenue,198.2
-NVDA,ADVFN,2000-10,gross operating profit,77.9
-NVDA,ADVFN,2000-10,operating income,0
-NVDA,ADVFN,2000-10,EBITDA,41
-NVDA,ADVFN,2000-10,total net income,28.1
-NVDA,ADVFN,2000-10,Basic EPS - Total,0.07
-NVDA,ADVFN,2000-10,free cash flow,30.8
-NVDA,ADVFN,2000-10,net cash from total operating activities,52.4
-NVDA,ADVFN,2001-01,total revenue,218.2
-NVDA,ADVFN,2001-01,gross operating profit,87.4
-NVDA,ADVFN,2001-01,operating income,0
-NVDA,ADVFN,2001-01,EBITDA,44.1
-NVDA,ADVFN,2001-01,total net income,31.1
-NVDA,ADVFN,2001-01,Basic EPS - Total,0.08
-NVDA,ADVFN,2001-01,free cash flow,31.6
-NVDA,ADVFN,2001-01,net cash from total operating activities,67.9
-NVDA,ADVFN,2001-04,total revenue,240.9
-NVDA,ADVFN,2001-04,gross operating profit,97.8
-NVDA,ADVFN,2001-04,operating income,31.4
-NVDA,ADVFN,2001-04,EBITDA,47.9
-NVDA,ADVFN,2001-04,total net income,25.9
-NVDA,ADVFN,2001-04,Basic EPS - Total,0.06
-NVDA,ADVFN,2001-04,free cash flow,-59.7
-NVDA,ADVFN,2001-04,net cash from total operating activities,35.7
-NVDA,ADVFN,2001-07,total revenue,260.3
-NVDA,ADVFN,2001-07,gross operating profit,110.3
-NVDA,ADVFN,2001-07,operating income,45.3
-NVDA,ADVFN,2001-07,EBITDA,56.7
-NVDA,ADVFN,2001-07,total net income,33.6
-NVDA,ADVFN,2001-07,Basic EPS - Total,0.08
-NVDA,ADVFN,2001-07,free cash flow,-25.9
-NVDA,ADVFN,2001-07,net cash from total operating activities,93.8
-NVDA,ADVFN,2001-10,total revenue,370.2
-NVDA,ADVFN,2001-10,gross operating profit,146.4
-NVDA,ADVFN,2001-10,operating income,62.1
-NVDA,ADVFN,2001-10,EBITDA,77.3
-NVDA,ADVFN,2001-10,total net income,44.7
-NVDA,ADVFN,2001-10,Basic EPS - Total,0.1
-NVDA,ADVFN,2001-10,free cash flow,-27.7
-NVDA,ADVFN,2001-10,net cash from total operating activities,113.3
-NVDA,ADVFN,2002-01,total revenue,498
-NVDA,ADVFN,2002-01,gross operating profit,196.1
-NVDA,ADVFN,2002-01,operating income,102.9
-NVDA,ADVFN,2002-01,EBITDA,117.8
-NVDA,ADVFN,2002-01,total net income,72.8
-NVDA,ADVFN,2002-01,Basic EPS - Total,0.17
-NVDA,ADVFN,2002-01,free cash flow,-0.3
-NVDA,ADVFN,2002-01,net cash from total operating activities,160.8
-NVDA,ADVFN,2002-04,total revenue,582.9
-NVDA,ADVFN,2002-04,gross operating profit,220
-NVDA,ADVFN,2002-04,operating income,117.2
-NVDA,ADVFN,2002-04,EBITDA,130
-NVDA,ADVFN,2002-04,total net income,83.2
-NVDA,ADVFN,2002-04,Basic EPS - Total,0.18
-NVDA,ADVFN,2002-04,free cash flow,23.6
-NVDA,ADVFN,2002-04,net cash from total operating activities,48.8
-NVDA,ADVFN,2002-07,total revenue,427.3
-NVDA,ADVFN,2002-07,gross operating profit,113.4
-NVDA,ADVFN,2002-07,operating income,6.2
-NVDA,ADVFN,2002-07,EBITDA,20.2
-NVDA,ADVFN,2002-07,total net income,5.3
-NVDA,ADVFN,2002-07,Basic EPS - Total,0.01
-NVDA,ADVFN,2002-07,free cash flow,0.4
-NVDA,ADVFN,2002-07,net cash from total operating activities,49.4
-NVDA,ADVFN,2002-10,total revenue,430.3
-NVDA,ADVFN,2002-10,gross operating profit,124.4
-NVDA,ADVFN,2002-10,operating income,-50.1
-NVDA,ADVFN,2002-10,EBITDA,27.9
-NVDA,ADVFN,2002-10,total net income,-48.6
-NVDA,ADVFN,2002-10,Basic EPS - Total,-0.11
-NVDA,ADVFN,2002-10,free cash flow,83.6
-NVDA,ADVFN,2002-10,net cash from total operating activities,140.7
-NVDA,ADVFN,2003-01,total revenue,469
-NVDA,ADVFN,2003-01,gross operating profit,176.5
-NVDA,ADVFN,2003-01,operating income,70.7
-NVDA,ADVFN,2003-01,EBITDA,24.1
-NVDA,ADVFN,2003-01,total net income,50.9
-NVDA,ADVFN,2003-01,Basic EPS - Total,0.11
-NVDA,ADVFN,2003-01,free cash flow,198
-NVDA,ADVFN,2003-01,net cash from total operating activities,265
-NVDA,ADVFN,2003-04,total revenue,405
-NVDA,ADVFN,2003-04,gross operating profit,142.5
-NVDA,ADVFN,2003-04,operating income,26.3
-NVDA,ADVFN,2003-04,EBITDA,42.3
-NVDA,ADVFN,2003-04,total net income,19.7
-NVDA,ADVFN,2003-04,Basic EPS - Total,0.04
-NVDA,ADVFN,2003-04,free cash flow,14.8
-NVDA,ADVFN,2003-04,net cash from total operating activities,40.4
-NVDA,ADVFN,2003-07,total revenue,459.8
-NVDA,ADVFN,2003-07,gross operating profit,149.6
-NVDA,ADVFN,2003-07,operating income,24.6
-NVDA,ADVFN,2003-07,EBITDA,44.2
-NVDA,ADVFN,2003-07,total net income,24.2
-NVDA,ADVFN,2003-07,Basic EPS - Total,0.05
-NVDA,ADVFN,2003-07,free cash flow,-32.6
-NVDA,ADVFN,2003-07,net cash from total operating activities,59.2
-NVDA,ADVFN,2003-10,total revenue,486.1
-NVDA,ADVFN,2003-10,gross operating profit,157
-NVDA,ADVFN,2003-10,operating income,15.4
-NVDA,ADVFN,2003-10,EBITDA,41.7
-NVDA,ADVFN,2003-10,total net income,6.4
-NVDA,ADVFN,2003-10,Basic EPS - Total,0.01
-NVDA,ADVFN,2003-10,free cash flow,-135.9
-NVDA,ADVFN,2003-10,net cash from total operating activities,50.6
-NVDA,ADVFN,2004-01,total revenue,472.1
-NVDA,ADVFN,2004-01,gross operating profit,162.5
-NVDA,ADVFN,2004-01,operating income,23.8
-NVDA,ADVFN,2004-01,EBITDA,48.1
-NVDA,ADVFN,2004-01,total net income,24.2
-NVDA,ADVFN,2004-01,Basic EPS - Total,0.05
-NVDA,ADVFN,2004-01,free cash flow,-149.2
-NVDA,ADVFN,2004-01,net cash from total operating activities,49.7
-NVDA,ADVFN,2004-04,total revenue,471.9
-NVDA,ADVFN,2004-04,gross operating profit,172.2
-NVDA,ADVFN,2004-04,operating income,23.9
-NVDA,ADVFN,2004-04,EBITDA,47.3
-NVDA,ADVFN,2004-04,total net income,21.3
-NVDA,ADVFN,2004-04,Basic EPS - Total,0.04
-NVDA,ADVFN,2004-04,free cash flow,42.9
-NVDA,ADVFN,2004-04,net cash from total operating activities,61.5
-NVDA,ADVFN,2004-07,total revenue,456.1
-NVDA,ADVFN,2004-07,gross operating profit,164.2
-NVDA,ADVFN,2004-07,operating income,3.8
-NVDA,ADVFN,2004-07,EBITDA,27.9
-NVDA,ADVFN,2004-07,total net income,5.1
-NVDA,ADVFN,2004-07,Basic EPS - Total,0.01
-NVDA,ADVFN,2004-07,free cash flow,-2.6
-NVDA,ADVFN,2004-07,net cash from total operating activities,32.6
-NVDA,ADVFN,2004-10,total revenue,515.6
-NVDA,ADVFN,2004-10,gross operating profit,190.8
-NVDA,ADVFN,2004-10,operating income,28.8
-NVDA,ADVFN,2004-10,EBITDA,52.8
-NVDA,ADVFN,2004-10,total net income,25.9
-NVDA,ADVFN,2004-10,Basic EPS - Total,0.05
-NVDA,ADVFN,2004-10,free cash flow,-16.3
-NVDA,ADVFN,2004-10,net cash from total operating activities,33
-NVDA,ADVFN,2005-01,total revenue,566.5
-NVDA,ADVFN,2005-01,gross operating profit,224.9
-NVDA,ADVFN,2005-01,operating income,57.2
-NVDA,ADVFN,2005-01,EBITDA,88.2
-NVDA,ADVFN,2005-01,total net income,48
-NVDA,ADVFN,2005-01,Basic EPS - Total,0.09
-NVDA,ADVFN,2005-01,free cash flow,64.9
-NVDA,ADVFN,2005-01,net cash from total operating activities,132.2
-NVDA,ADVFN,2005-04,total revenue,583.8
-NVDA,ADVFN,2005-04,gross operating profit,235
-NVDA,ADVFN,2005-04,operating income,76.2
-NVDA,ADVFN,2005-04,EBITDA,101.1
-NVDA,ADVFN,2005-04,total net income,64.4
-NVDA,ADVFN,2005-04,Basic EPS - Total,0.13
-NVDA,ADVFN,2005-04,free cash flow,76.1
-NVDA,ADVFN,2005-04,net cash from total operating activities,89.6
-NVDA,ADVFN,2005-07,total revenue,574.8
-NVDA,ADVFN,2005-07,gross operating profit,242.3
-NVDA,ADVFN,2005-07,operating income,80
-NVDA,ADVFN,2005-07,EBITDA,104.8
-NVDA,ADVFN,2005-07,total net income,74.8
-NVDA,ADVFN,2005-07,Basic EPS - Total,0.15
-NVDA,ADVFN,2005-07,free cash flow,94.2
-NVDA,ADVFN,2005-07,net cash from total operating activities,136.9
-NVDA,ADVFN,2005-10,total revenue,583.4
-NVDA,ADVFN,2005-10,gross operating profit,252.7
-NVDA,ADVFN,2005-10,operating income,71.5
-NVDA,ADVFN,2005-10,EBITDA,110.2
-NVDA,ADVFN,2005-10,total net income,65.3
-NVDA,ADVFN,2005-10,Basic EPS - Total,0.13
-NVDA,ADVFN,2005-10,free cash flow,164.9
-NVDA,ADVFN,2005-10,net cash from total operating activities,221
-NVDA,ADVFN,2006-01,total revenue,633.6
-NVDA,ADVFN,2006-01,gross operating profit,278.7
-NVDA,ADVFN,2006-01,operating income,112.3
-NVDA,ADVFN,2006-01,EBITDA,136.1
-NVDA,ADVFN,2006-01,total net income,98.1
-NVDA,ADVFN,2006-01,Basic EPS - Total,0.19
-NVDA,ADVFN,2006-01,free cash flow,354.7
-NVDA,ADVFN,2006-01,net cash from total operating activities,446.4
-NVDA,ADVFN,2006-04,total revenue,681.8
-NVDA,ADVFN,2006-04,gross operating profit,312.8
-NVDA,ADVFN,2006-04,operating income,100.7
-NVDA,ADVFN,2006-04,EBITDA,124.7
-NVDA,ADVFN,2006-04,total net income,90.7
-NVDA,ADVFN,2006-04,Basic EPS - Total,0.17
-NVDA,ADVFN,2006-04,free cash flow,-37.3
-NVDA,ADVFN,2006-04,net cash from total operating activities,50.4
-NVDA,ADVFN,2006-07,total revenue,687.5
-NVDA,ADVFN,2006-07,gross operating profit,316.3
-NVDA,ADVFN,2006-07,operating income,95.8
-NVDA,ADVFN,2006-07,EBITDA,120
-NVDA,ADVFN,2006-07,total net income,86.8
-NVDA,ADVFN,2006-07,Basic EPS - Total,0.17
-NVDA,ADVFN,2006-07,free cash flow,-40.4
-NVDA,ADVFN,2006-07,net cash from total operating activities,67.4
-NVDA,ADVFN,2006-10,total revenue,820.6
-NVDA,ADVFN,2006-10,gross operating profit,359
-NVDA,ADVFN,2006-10,operating income,117.6
-NVDA,ADVFN,2006-10,EBITDA,142.6
-NVDA,ADVFN,2006-10,total net income,106.5
-NVDA,ADVFN,2006-10,Basic EPS - Total,0.2
-NVDA,ADVFN,2006-10,free cash flow,220.1
-NVDA,ADVFN,2006-10,net cash from total operating activities,356.7
-NVDA,ADVFN,2007-01,total revenue,878.9
-NVDA,ADVFN,2007-01,gross operating profit,420
-NVDA,ADVFN,2007-01,operating income,138.5
-NVDA,ADVFN,2007-01,EBITDA,172.8
-NVDA,ADVFN,2007-01,total net income,163.5
-NVDA,ADVFN,2007-01,Basic EPS - Total,0.29
-NVDA,ADVFN,2007-01,free cash flow,40.1
-NVDA,ADVFN,2007-01,net cash from total operating activities,587.1
-NVDA,ADVFN,2007-04,total revenue,844.3
-NVDA,ADVFN,2007-04,gross operating profit,411.5
-NVDA,ADVFN,2007-04,operating income,141.2
-NVDA,ADVFN,2007-04,EBITDA,172.6
-NVDA,ADVFN,2007-04,total net income,132.3
-NVDA,ADVFN,2007-04,Basic EPS - Total,0.25
-NVDA,ADVFN,2007-04,free cash flow,268.9
-NVDA,ADVFN,2007-04,net cash from total operating activities,306.5
-NVDA,ADVFN,2007-07,total revenue,935.3
-NVDA,ADVFN,2007-07,gross operating profit,455.9
-NVDA,ADVFN,2007-07,operating income,184.8
-NVDA,ADVFN,2007-07,EBITDA,216.7
-NVDA,ADVFN,2007-07,total net income,172.7
-NVDA,ADVFN,2007-07,Basic EPS - Total,0.31
-NVDA,ADVFN,2007-07,free cash flow,569.9
-NVDA,ADVFN,2007-07,net cash from total operating activities,637.6
-NVDA,ADVFN,2007-10,total revenue,1115.6
-NVDA,ADVFN,2007-10,gross operating profit,548.6
-NVDA,ADVFN,2007-10,operating income,247.8
-NVDA,ADVFN,2007-10,EBITDA,280.9
-NVDA,ADVFN,2007-10,total net income,235.7
-NVDA,ADVFN,2007-10,Basic EPS - Total,0.42
-NVDA,ADVFN,2007-10,free cash flow,900.3
-NVDA,ADVFN,2007-10,net cash from total operating activities,1017.7
-NVDA,ADVFN,2008-01,total revenue,1202.7
-NVDA,ADVFN,2008-01,gross operating profit,586.5
-NVDA,ADVFN,2008-01,operating income,262.5
-NVDA,ADVFN,2008-01,EBITDA,299.4
-NVDA,ADVFN,2008-01,total net income,257
-NVDA,ADVFN,2008-01,Basic EPS - Total,0.46
-NVDA,ADVFN,2008-01,free cash flow,1006.9
-NVDA,ADVFN,2008-01,net cash from total operating activities,1270.2
-NVDA,ADVFN,2008-04,total revenue,1153.4
-NVDA,ADVFN,2008-04,gross operating profit,556.2
-NVDA,ADVFN,2008-04,operating income,203
-NVDA,ADVFN,2008-04,EBITDA,244.3
-NVDA,ADVFN,2008-04,total net income,176.8
-NVDA,ADVFN,2008-04,Basic EPS - Total,0.32
-NVDA,ADVFN,2008-04,free cash flow,-84.9
-NVDA,ADVFN,2008-04,net cash from total operating activities,145.2
-NVDA,ADVFN,2008-07,total revenue,892.7
-NVDA,ADVFN,2008-07,gross operating profit,196.2
-NVDA,ADVFN,2008-07,operating income,-155.4
-NVDA,ADVFN,2008-07,EBITDA,-109.1
-NVDA,ADVFN,2008-07,total net income,-120.9
-NVDA,ADVFN,2008-07,Basic EPS - Total,-0.22
-NVDA,ADVFN,2008-07,free cash flow,-57.4
-NVDA,ADVFN,2008-07,net cash from total operating activities,226.2
-NVDA,ADVFN,2008-10,total revenue,897.7
-NVDA,ADVFN,2008-10,gross operating profit,417.1
-NVDA,ADVFN,2008-10,operating income,56.8
-NVDA,ADVFN,2008-10,EBITDA,114.4
-NVDA,ADVFN,2008-10,total net income,61.7
-NVDA,ADVFN,2008-10,Basic EPS - Total,0.11
-NVDA,ADVFN,2008-10,free cash flow,-123.4
-NVDA,ADVFN,2008-10,net cash from total operating activities,269.2
-NVDA,ADVFN,2009-01,total revenue,481.1
-NVDA,ADVFN,2009-01,gross operating profit,189.7
-NVDA,ADVFN,2009-01,operating income,-175.1
-NVDA,ADVFN,2009-01,EBITDA,-108.5
-NVDA,ADVFN,2009-01,total net income,-147.7
-NVDA,ADVFN,2009-01,Basic EPS - Total,-0.26
-NVDA,ADVFN,2009-01,free cash flow,-186.3
-NVDA,ADVFN,2009-01,net cash from total operating activities,249.4
-NVDA,ADVFN,2009-04,total revenue,664.2
-NVDA,ADVFN,2009-04,gross operating profit,240.4
-NVDA,ADVFN,2009-04,operating income,-231
-NVDA,ADVFN,2009-04,EBITDA,-180.3
-NVDA,ADVFN,2009-04,total net income,-201.3
-NVDA,ADVFN,2009-04,Basic EPS - Total,-0.37
-NVDA,ADVFN,2009-04,free cash flow,121.4
-NVDA,ADVFN,2009-04,net cash from total operating activities,142.1
-NVDA,ADVFN,2009-07,total revenue,776.5
-NVDA,ADVFN,2009-07,gross operating profit,206
-NVDA,ADVFN,2009-07,operating income,-110.1
-NVDA,ADVFN,2009-07,EBITDA,-60.8
-NVDA,ADVFN,2009-07,total net income,-105.3
-NVDA,ADVFN,2009-07,Basic EPS - Total,-0.19
-NVDA,ADVFN,2009-07,free cash flow,238.8
-NVDA,ADVFN,2009-07,net cash from total operating activities,277.2
-NVDA,ADVFN,2009-10,total revenue,903.2
-NVDA,ADVFN,2009-10,gross operating profit,440.6
-NVDA,ADVFN,2009-10,operating income,107.8
-NVDA,ADVFN,2009-10,EBITDA,156.6
-NVDA,ADVFN,2009-10,total net income,107.6
-NVDA,ADVFN,2009-10,Basic EPS - Total,0.2
-NVDA,ADVFN,2009-10,free cash flow,363.5
-NVDA,ADVFN,2009-10,net cash from total operating activities,418.6
-NVDA,ADVFN,2010-01,total revenue,982.5
-NVDA,ADVFN,2010-01,gross operating profit,486.6
-NVDA,ADVFN,2010-01,operating income,134.3
-NVDA,ADVFN,2010-01,EBITDA,182.2
-NVDA,ADVFN,2010-01,total net income,131.1
-NVDA,ADVFN,2010-01,Basic EPS - Total,0.24
-NVDA,ADVFN,2010-01,free cash flow,410.2
-NVDA,ADVFN,2010-01,net cash from total operating activities,487.8
-NVDA,ADVFN,2010-04,total revenue,1001.8
-NVDA,ADVFN,2010-04,gross operating profit,503.5
-NVDA,ADVFN,2010-04,operating income,147.4
-NVDA,ADVFN,2010-04,EBITDA,194.5
-NVDA,ADVFN,2010-04,total net income,137.6
-NVDA,ADVFN,2010-04,Basic EPS - Total,0.24
-NVDA,ADVFN,2010-04,free cash flow,-22.5
-NVDA,ADVFN,2010-04,net cash from total operating activities,-5.4
-NVDA,ADVFN,2010-07,total revenue,811.2
-NVDA,ADVFN,2010-07,gross operating profit,180.9
-NVDA,ADVFN,2010-07,operating income,-175.2
-NVDA,ADVFN,2010-07,EBITDA,-128.6
-NVDA,ADVFN,2010-07,total net income,-141
-NVDA,ADVFN,2010-07,Basic EPS - Total,-0.25
-NVDA,ADVFN,2010-07,free cash flow,-25.8
-NVDA,ADVFN,2010-07,net cash from total operating activities,28.9
-NVDA,ADVFN,2010-10,total revenue,843.9
-NVDA,ADVFN,2010-10,gross operating profit,438.9
-NVDA,ADVFN,2010-10,operating income,103.8
-NVDA,ADVFN,2010-10,EBITDA,150.7
-NVDA,ADVFN,2010-10,total net income,84.9
-NVDA,ADVFN,2010-10,Basic EPS - Total,0.15
-NVDA,ADVFN,2010-10,free cash flow,164.6
-NVDA,ADVFN,2010-10,net cash from total operating activities,241.1
-NVDA,ADVFN,2011-01,total revenue,886.4
-NVDA,ADVFN,2011-01,gross operating profit,472.8
-NVDA,ADVFN,2011-01,operating income,179.8
-NVDA,ADVFN,2011-01,EBITDA,112.2
-NVDA,ADVFN,2011-01,total net income,171.7
-NVDA,ADVFN,2011-01,Basic EPS - Total,0.3
-NVDA,ADVFN,2011-01,free cash flow,577.9
-NVDA,ADVFN,2011-01,net cash from total operating activities,675.8
-NVDA,ADVFN,2011-04,total revenue,962
-NVDA,ADVFN,2011-04,gross operating profit,532.3
-NVDA,ADVFN,2011-04,operating income,154.9
-NVDA,ADVFN,2011-04,EBITDA,202.6
-NVDA,ADVFN,2011-04,total net income,135.2
-NVDA,ADVFN,2011-04,Basic EPS - Total,0.23
-NVDA,ADVFN,2011-04,free cash flow,141
-NVDA,ADVFN,2011-04,net cash from total operating activities,172.2
-NVDA,ADVFN,2011-07,total revenue,1016.5
-NVDA,ADVFN,2011-07,gross operating profit,577.4
-NVDA,ADVFN,2011-07,operating income,174
-NVDA,ADVFN,2011-07,EBITDA,226.2
-NVDA,ADVFN,2011-07,total net income,151.6
-NVDA,ADVFN,2011-07,Basic EPS - Total,0.25
-NVDA,ADVFN,2011-07,free cash flow,-149.2
-NVDA,ADVFN,2011-07,net cash from total operating activities,254.2
-NVDA,ADVFN,2011-10,total revenue,1066.2
-NVDA,ADVFN,2011-10,gross operating profit,609.1
-NVDA,ADVFN,2011-10,operating income,197.1
-NVDA,ADVFN,2011-10,EBITDA,249.5
-NVDA,ADVFN,2011-10,total net income,178.3
-NVDA,ADVFN,2011-10,Basic EPS - Total,0.29
-NVDA,ADVFN,2011-10,free cash flow,56.2
-NVDA,ADVFN,2011-10,net cash from total operating activities,498.6
-NVDA,ADVFN,2012-01,total revenue,953.2
-NVDA,ADVFN,2012-01,gross operating profit,541.9
-NVDA,ADVFN,2012-01,operating income,122.3
-NVDA,ADVFN,2012-01,EBITDA,174.2
-NVDA,ADVFN,2012-01,total net income,116
-NVDA,ADVFN,2012-01,Basic EPS - Total,0.19
-NVDA,ADVFN,2012-01,free cash flow,421.5
-NVDA,ADVFN,2012-01,net cash from total operating activities,909.2
-NVDA,ADVFN,2012-04,total revenue,924.9
-NVDA,ADVFN,2012-04,gross operating profit,517.9
-NVDA,ADVFN,2012-04,operating income,72.8
-NVDA,ADVFN,2012-04,EBITDA,127.3
-NVDA,ADVFN,2012-04,total net income,60.4
-NVDA,ADVFN,2012-04,Basic EPS - Total,0.1
-NVDA,ADVFN,2012-04,free cash flow,-38.1
-NVDA,ADVFN,2012-04,net cash from total operating activities,-9.2
-NVDA,ADVFN,2012-07,total revenue,1044.3
-NVDA,ADVFN,2012-07,gross operating profit,596.9
-NVDA,ADVFN,2012-07,operating income,139.6
-NVDA,ADVFN,2012-07,EBITDA,195.8
-NVDA,ADVFN,2012-07,total net income,119
-NVDA,ADVFN,2012-07,Basic EPS - Total,0.19
-NVDA,ADVFN,2012-07,free cash flow,100.8
-NVDA,ADVFN,2012-07,net cash from total operating activities,191.7
-NVDA,ADVFN,2012-10,total revenue,1204.1
-NVDA,ADVFN,2012-10,gross operating profit,693.8
-NVDA,ADVFN,2012-10,operating income,252.2
-NVDA,ADVFN,2012-10,EBITDA,309.4
-NVDA,ADVFN,2012-10,total net income,209.1
-NVDA,ADVFN,2012-10,Basic EPS - Total,0.34
-NVDA,ADVFN,2012-10,free cash flow,237.6
-NVDA,ADVFN,2012-10,net cash from total operating activities,373.2
-NVDA,ADVFN,2013-01,total revenue,1106.9
-NVDA,ADVFN,2013-01,gross operating profit,644
-NVDA,ADVFN,2013-01,operating income,183.6
-NVDA,ADVFN,2013-01,EBITDA,242
-NVDA,ADVFN,2013-01,total net income,174
-NVDA,ADVFN,2013-01,Basic EPS - Total,0.28
-NVDA,ADVFN,2013-01,free cash flow,594
-NVDA,ADVFN,2013-01,net cash from total operating activities,824.2
-NVDA,ADVFN,2013-04,total revenue,954.7
-NVDA,ADVFN,2013-04,gross operating profit,578.3
-NVDA,ADVFN,2013-04,operating income,82.8
-NVDA,ADVFN,2013-04,EBITDA,142.5
-NVDA,ADVFN,2013-04,total net income,77.9
-NVDA,ADVFN,2013-04,Basic EPS - Total,0.13
-NVDA,ADVFN,2013-04,free cash flow,63.7
-NVDA,ADVFN,2013-04,net cash from total operating activities,175.7
-NVDA,ADVFN,2013-07,total revenue,977.2
-NVDA,ADVFN,2013-07,gross operating profit,545.5
-NVDA,ADVFN,2013-07,operating income,105.5
-NVDA,ADVFN,2013-07,EBITDA,167.4
-NVDA,ADVFN,2013-07,total net income,96.4
-NVDA,ADVFN,2013-07,Basic EPS - Total,0.16
-NVDA,ADVFN,2013-07,free cash flow,11.5
-NVDA,ADVFN,2013-07,net cash from total operating activities,96.5
-NVDA,ADVFN,2013-10,total revenue,1054
-NVDA,ADVFN,2013-10,gross operating profit,584.4
-NVDA,ADVFN,2013-10,operating income,141
-NVDA,ADVFN,2013-10,EBITDA,203.7
-NVDA,ADVFN,2013-10,total net income,118.7
-NVDA,ADVFN,2013-10,Basic EPS - Total,0.2
-NVDA,ADVFN,2013-10,free cash flow,124.2
-NVDA,ADVFN,2013-10,net cash from total operating activities,162.3
-NVDA,ADVFN,2014-01,total revenue,1144.2
-NVDA,ADVFN,2014-01,gross operating profit,619.2
-NVDA,ADVFN,2014-01,operating income,166.9
-NVDA,ADVFN,2014-01,EBITDA,246.2
-NVDA,ADVFN,2014-01,total net income,146.9
-NVDA,ADVFN,2014-01,Basic EPS - Total,0.26
-NVDA,ADVFN,2014-01,free cash flow,334.3
-NVDA,ADVFN,2014-01,net cash from total operating activities,400.7
-NVDA,ADVFN,2014-04,total revenue,1102.8
-NVDA,ADVFN,2014-04,gross operating profit,604.2
-NVDA,ADVFN,2014-04,operating income,151.4
-NVDA,ADVFN,2014-04,EBITDA,229.8
-NVDA,ADVFN,2014-04,total net income,136.5
-NVDA,ADVFN,2014-04,Basic EPS - Total,0.24
-NVDA,ADVFN,2014-04,free cash flow,122
-NVDA,ADVFN,2014-04,net cash from total operating activities,151
-NVDA,ADVFN,2014-07,total revenue,1102.8
-NVDA,ADVFN,2014-07,gross operating profit,619
-NVDA,ADVFN,2014-07,operating income,163.2
-NVDA,ADVFN,2014-07,EBITDA,221.8
-NVDA,ADVFN,2014-07,total net income,128
-NVDA,ADVFN,2014-07,Basic EPS - Total,0.23
-NVDA,ADVFN,2014-07,free cash flow,73.8
-NVDA,ADVFN,2014-07,net cash from total operating activities,96.3
-NVDA,ADVFN,2014-10,total revenue,1225.4
-NVDA,ADVFN,2014-10,gross operating profit,676.7
-NVDA,ADVFN,2014-10,operating income,213.3
-NVDA,ADVFN,2014-10,EBITDA,276.1
-NVDA,ADVFN,2014-10,total net income,173
-NVDA,ADVFN,2014-10,Basic EPS - Total,0.32
-NVDA,ADVFN,2014-10,free cash flow,175.9
-NVDA,ADVFN,2014-10,net cash from total operating activities,215.6
-NVDA,ADVFN,2015-01,total revenue,1250.5
-NVDA,ADVFN,2015-01,gross operating profit,699.6
-NVDA,ADVFN,2015-01,operating income,231.1
-NVDA,ADVFN,2015-01,EBITDA,293.4
-NVDA,ADVFN,2015-01,total net income,193.1
-NVDA,ADVFN,2015-01,Basic EPS - Total,0.35
-NVDA,ADVFN,2015-01,free cash flow,411.7
-NVDA,ADVFN,2015-01,net cash from total operating activities,442.7
-NVDA,ADVFN,2015-04,total revenue,1151
-NVDA,ADVFN,2015-04,gross operating profit,653
-NVDA,ADVFN,2015-04,operating income,176
-NVDA,ADVFN,2015-04,EBITDA,238
-NVDA,ADVFN,2015-04,total net income,134
-NVDA,ADVFN,2015-04,Basic EPS - Total,0.24
-NVDA,ADVFN,2015-04,free cash flow,216
-NVDA,ADVFN,2015-04,net cash from total operating activities,246
-NVDA,ADVFN,2015-07,total revenue,1153
-NVDA,ADVFN,2015-07,gross operating profit,634
-NVDA,ADVFN,2015-07,operating income,76
-NVDA,ADVFN,2015-07,EBITDA,133
-NVDA,ADVFN,2015-07,total net income,26
-NVDA,ADVFN,2015-07,Basic EPS - Total,0.05
-NVDA,ADVFN,2015-07,free cash flow,139
-NVDA,ADVFN,2015-07,net cash from total operating activities,163
-NVDA,ADVFN,2015-10,total revenue,1305
-NVDA,ADVFN,2015-10,gross operating profit,734
-NVDA,ADVFN,2015-10,operating income,245
-NVDA,ADVFN,2015-10,EBITDA,305
-NVDA,ADVFN,2015-10,total net income,246
-NVDA,ADVFN,2015-10,Basic EPS - Total,0.45
-NVDA,ADVFN,2015-10,free cash flow,238
-NVDA,ADVFN,2015-10,net cash from total operating activities,255
-NVDA,ADVFN,2016-01,total revenue,1401
-NVDA,ADVFN,2016-01,gross operating profit,791
-NVDA,ADVFN,2016-01,operating income,252
-NVDA,ADVFN,2016-01,EBITDA,312
-NVDA,ADVFN,2016-01,total net income,208
-NVDA,ADVFN,2016-01,Basic EPS - Total,0.39
-NVDA,ADVFN,2016-01,free cash flow,496
-NVDA,ADVFN,2016-01,net cash from total operating activities,511
-NVDA,ADVFN,2016-04,total revenue,1305
-NVDA,ADVFN,2016-04,gross operating profit,751
-NVDA,ADVFN,2016-04,operating income,245
-NVDA,ADVFN,2016-04,EBITDA,298
-NVDA,ADVFN,2016-04,total net income,196
-NVDA,ADVFN,2016-04,Basic EPS - Total,0.36
-NVDA,ADVFN,2016-04,free cash flow,254
-NVDA,ADVFN,2016-04,net cash from total operating activities,309
-NVDA,ADVFN,2016-07,total revenue,1428
-NVDA,ADVFN,2016-07,gross operating profit,826
-NVDA,ADVFN,2016-07,operating income,317
-NVDA,ADVFN,2016-07,EBITDA,376
-NVDA,ADVFN,2016-07,total net income,253
-NVDA,ADVFN,2016-07,Basic EPS - Total,0.47
-NVDA,ADVFN,2016-07,free cash flow,152
-NVDA,ADVFN,2016-07,net cash from total operating activities,184
-NVDA,ADVFN,2016-10,total revenue,2004
-NVDA,ADVFN,2016-10,gross operating profit,1183
-NVDA,ADVFN,2016-10,operating income,639
-NVDA,ADVFN,2016-10,EBITDA,685
-NVDA,ADVFN,2016-10,total net income,542
-NVDA,ADVFN,2016-10,Basic EPS - Total,1.01
-NVDA,ADVFN,2016-10,free cash flow,420
-NVDA,ADVFN,2016-10,net cash from total operating activities,458
-NVDA,ADVFN,2017-01,total revenue,2173
-NVDA,ADVFN,2017-01,gross operating profit,1303
-NVDA,ADVFN,2017-01,operating income,733
-NVDA,ADVFN,2017-01,EBITDA,791
-NVDA,ADVFN,2017-01,total net income,654
-NVDA,ADVFN,2017-01,Basic EPS - Total,1.19
-NVDA,ADVFN,2017-01,free cash flow,670
-NVDA,ADVFN,2017-01,net cash from total operating activities,721
-NVDA,ADVFN,2017-04,total revenue,1937
-NVDA,ADVFN,2017-04,gross operating profit,1150
-NVDA,ADVFN,2017-04,operating income,554
-NVDA,ADVFN,2017-04,EBITDA,599
-NVDA,ADVFN,2017-04,total net income,507
-NVDA,ADVFN,2017-04,Basic EPS - Total,0.86
-NVDA,ADVFN,2017-04,free cash flow,228
-NVDA,ADVFN,2017-04,net cash from total operating activities,282
-NVDA,ADVFN,2017-07,total revenue,2230
-NVDA,ADVFN,2017-07,gross operating profit,1302
-NVDA,ADVFN,2017-07,operating income,688
-NVDA,ADVFN,2017-07,EBITDA,748
-NVDA,ADVFN,2017-07,total net income,583
-NVDA,ADVFN,2017-07,Basic EPS - Total,0.98
-NVDA,ADVFN,2017-07,free cash flow,651
-NVDA,ADVFN,2017-07,net cash from total operating activities,705
-NVDA,Stockrow,2017-07,Operating Cash Flow,705
-NVDA,Stockrow,2017-07,Free Cash Flow,651
-NVDA,Stockrow,2017-04,Operating Cash Flow,282
-NVDA,Stockrow,2017-04,Free Cash Flow,228
-NVDA,Stockrow,2017-01,Operating Cash Flow,721
-NVDA,Stockrow,2017-01,Free Cash Flow,671
-NVDA,Stockrow,2016-10,Operating Cash Flow,458
-NVDA,Stockrow,2016-10,Free Cash Flow,420
-NVDA,Stockrow,2016-07,Operating Cash Flow,200
-NVDA,Stockrow,2016-07,Free Cash Flow,174
-NVDA,Stockrow,2016-05,Operating Cash Flow,319
-NVDA,Stockrow,2016-05,Free Cash Flow,264
-NVDA,Stockrow,2016-01,Operating Cash Flow,511
-NVDA,Stockrow,2016-01,Free Cash Flow,496
-NVDA,Stockrow,2015-10,Operating Cash Flow,255
-NVDA,Stockrow,2015-10,Free Cash Flow,243
-NVDA,Stockrow,2015-07,Operating Cash Flow,163
-NVDA,Stockrow,2015-07,Free Cash Flow,141
-NVDA,Stockrow,2015-04,Operating Cash Flow,246
-NVDA,Stockrow,2015-04,Free Cash Flow,216
-NVDA,Stockrow,2015-01,Operating Cash Flow,443
-NVDA,Stockrow,2015-01,Free Cash Flow,412
-NVDA,Stockrow,2014-10,Operating Cash Flow,216
-NVDA,Stockrow,2014-10,Free Cash Flow,177
-NVDA,Stockrow,2014-07,Operating Cash Flow,96
-NVDA,Stockrow,2014-07,Free Cash Flow,73
-NVDA,Stockrow,2014-04,Operating Cash Flow,151
-NVDA,Stockrow,2014-04,Free Cash Flow,143
-NVDA,Stockrow,2014-01,Operating Cash Flow,400
-NVDA,Stockrow,2014-01,Free Cash Flow,359
-NVDA,Stockrow,2013-10,Operating Cash Flow,162
-NVDA,Stockrow,2013-10,Free Cash Flow,124
-NVDA,Stockrow,2013-07,Operating Cash Flow,96
-NVDA,Stockrow,2013-07,Free Cash Flow,11
-NVDA,Stockrow,2013-04,Operating Cash Flow,175
-NVDA,Stockrow,2013-04,Free Cash Flow,109
-NVDA,Stockrow,2013-01,Operating Cash Flow,451
-NVDA,Stockrow,2013-01,Free Cash Flow,403
-NVDA,Stockrow,2012-10,Operating Cash Flow,181
-NVDA,Stockrow,2012-10,Free Cash Flow,136
-NVDA,Stockrow,2012-07,Operating Cash Flow,200
-NVDA,Stockrow,2012-07,Free Cash Flow,138
-NVDA,Stockrow,2012-04,Operating Cash Flow,-9
-NVDA,Stockrow,2012-04,Free Cash Flow,-38
-NVDA,Stockrow,2012-01,Operating Cash Flow,410
-NVDA,Stockrow,2012-01,Free Cash Flow,365
-NVDA,Stockrow,2011-10,Operating Cash Flow,244
-NVDA,Stockrow,2011-10,Free Cash Flow,205
-NVDA,Stockrow,2011-07,Operating Cash Flow,82
-NVDA,Stockrow,2011-07,Free Cash Flow,58
-NVDA,Stockrow,2011-05,Operating Cash Flow,172
-NVDA,Stockrow,2011-05,Free Cash Flow,141
-NVDA,Stockrow,2011-01,Operating Cash Flow,434
-NVDA,Stockrow,2011-01,Free Cash Flow,413
-NVDA,Stockrow,2010-10,Operating Cash Flow,212
-NVDA,Stockrow,2010-10,Free Cash Flow,190
-NVDA,Stockrow,2010-08,Operating Cash Flow,34
-NVDA,Stockrow,2010-08,Free Cash Flow,-3
-NVDA,Stockrow,2010-05,Operating Cash Flow,-5
-NVDA,Stockrow,2010-05,Free Cash Flow,-22
-NVDA,Stockrow,2010-01,Operating Cash Flow,69
-NVDA,Stockrow,2010-01,Free Cash Flow,46
-NVDA,Stockrow,2009-10,Operating Cash Flow,141
-NVDA,Stockrow,2009-10,Free Cash Flow,124
-NVDA,Stockrow,2009-07,Operating Cash Flow,135
-NVDA,Stockrow,2009-07,Free Cash Flow,117
-NVDA,Stockrow,2009-04,Operating Cash Flow,142
-NVDA,Stockrow,2009-04,Free Cash Flow,121
-NVDA,Stockrow,2009-01,Operating Cash Flow,-19
-NVDA,Stockrow,2009-01,Free Cash Flow,-62
-NVDA,Stockrow,2008-10,Operating Cash Flow,43
-NVDA,Stockrow,2008-10,Free Cash Flow,-66
-NVDA,Stockrow,2008-07,Operating Cash Flow,80
-NVDA,Stockrow,2008-07,Free Cash Flow,27
-NVDA,Stockrow,2008-04,Operating Cash Flow,145
-NVDA,Stockrow,2008-04,Free Cash Flow,-56
-NVDA,Stockrow,2008-01,Operating Cash Flow,252
-NVDA,Stockrow,2008-01,Free Cash Flow,182
-NVDA,Stockrow,2007-10,Operating Cash Flow,400
-NVDA,Stockrow,2007-10,Free Cash Flow,330
-NVDA,Stockrow,2017-07,Revenues,2230
-NVDA,Stockrow,2017-07,Gross Profit,1302
-NVDA,Stockrow,2017-07,Operating Income,688
-NVDA,Stockrow,2017-07,Net Income,583
-NVDA,Stockrow,2017-07,EPS,0.98
-NVDA,Stockrow,2017-07,EBITDA,748
-NVDA,Stockrow,2017-04,Revenues,1937
-NVDA,Stockrow,2017-04,Gross Profit,1150
-NVDA,Stockrow,2017-04,Operating Income,554
-NVDA,Stockrow,2017-04,Net Income,507
-NVDA,Stockrow,2017-04,EPS,0.86
-NVDA,Stockrow,2017-04,EBITDA,599
-NVDA,Stockrow,2017-01,Revenues,2173
-NVDA,Stockrow,2017-01,Gross Profit,1303
-NVDA,Stockrow,2017-01,Operating Income,733
-NVDA,Stockrow,2017-01,Net Income,654
-NVDA,Stockrow,2017-01,EPS,1.19
-NVDA,Stockrow,2017-01,EBITDA,791
-NVDA,Stockrow,2016-10,Revenues,2004
-NVDA,Stockrow,2016-10,Gross Profit,1183
-NVDA,Stockrow,2016-10,Operating Income,639
-NVDA,Stockrow,2016-10,Net Income,542
-NVDA,Stockrow,2016-10,EPS,1.01
-NVDA,Stockrow,2016-10,EBITDA,685
-NVDA,Stockrow,2016-07,Revenues,1428
-NVDA,Stockrow,2016-07,Gross Profit,826
-NVDA,Stockrow,2016-07,Operating Income,317
-NVDA,Stockrow,2016-07,Net Income,261
-NVDA,Stockrow,2016-07,EPS,0.49
-NVDA,Stockrow,2016-07,EBITDA,376
-NVDA,Stockrow,2016-05,Revenues,1305
-NVDA,Stockrow,2016-05,Gross Profit,751
-NVDA,Stockrow,2016-05,Operating Income,245
-NVDA,Stockrow,2016-05,Net Income,208
-NVDA,Stockrow,2016-05,EPS,0.39
-NVDA,Stockrow,2016-05,EBITDA,298
-NVDA,Stockrow,2016-01,Revenues,1401
-NVDA,Stockrow,2016-01,Gross Profit,791
-NVDA,Stockrow,2016-01,Operating Income,252
-NVDA,Stockrow,2016-01,Net Income,208
-NVDA,Stockrow,2016-01,EPS,0.38
-NVDA,Stockrow,2016-01,EBITDA,312
-NVDA,Stockrow,2015-10,Revenues,1305
-NVDA,Stockrow,2015-10,Gross Profit,734
-NVDA,Stockrow,2015-10,Operating Income,245
-NVDA,Stockrow,2015-10,Net Income,246
-NVDA,Stockrow,2015-10,EPS,0.45
-NVDA,Stockrow,2015-10,EBITDA,305
-NVDA,Stockrow,2015-07,Revenues,1153
-NVDA,Stockrow,2015-07,Gross Profit,634
-NVDA,Stockrow,2015-07,Operating Income,76
-NVDA,Stockrow,2015-07,Net Income,26
-NVDA,Stockrow,2015-07,EPS,0.05
-NVDA,Stockrow,2015-07,EBITDA,133
-NVDA,Stockrow,2015-04,Revenues,1151
-NVDA,Stockrow,2015-04,Gross Profit,653
-NVDA,Stockrow,2015-04,Operating Income,175
-NVDA,Stockrow,2015-04,Net Income,134
-NVDA,Stockrow,2015-04,EPS,0.24
-NVDA,Stockrow,2015-04,EBITDA,238
-NVDA,Stockrow,2015-01,Revenues,1251
-NVDA,Stockrow,2015-01,Gross Profit,699
-NVDA,Stockrow,2015-01,Operating Income,231
-NVDA,Stockrow,2015-01,Net Income,194
-NVDA,Stockrow,2015-01,EPS,0.35
-NVDA,Stockrow,2015-01,EBITDA,293
-NVDA,Stockrow,2014-10,Revenues,1225
-NVDA,Stockrow,2014-10,Gross Profit,676
-NVDA,Stockrow,2014-10,Operating Income,213
-NVDA,Stockrow,2014-10,Net Income,173
-NVDA,Stockrow,2014-10,EPS,0.32
-NVDA,Stockrow,2014-10,EBITDA,275
-NVDA,Stockrow,2014-07,Revenues,1103
-NVDA,Stockrow,2014-07,Gross Profit,619
-NVDA,Stockrow,2014-07,Operating Income,163
-NVDA,Stockrow,2014-07,Net Income,128
-NVDA,Stockrow,2014-07,EPS,0.23
-NVDA,Stockrow,2014-07,EBITDA,223
-NVDA,Stockrow,2014-04,Revenues,1103
-NVDA,Stockrow,2014-04,Gross Profit,604
-NVDA,Stockrow,2014-04,Operating Income,151
-NVDA,Stockrow,2014-04,Net Income,137
-NVDA,Stockrow,2014-04,EPS,0.24
-NVDA,Stockrow,2014-04,EBITDA,229
-NVDA,Stockrow,2014-01,Revenues,1144
-NVDA,Stockrow,2014-01,Gross Profit,619
-NVDA,Stockrow,2014-01,Operating Income,166
-NVDA,Stockrow,2014-01,Net Income,146
-NVDA,Stockrow,2014-01,EPS,0.26
-NVDA,Stockrow,2014-01,EBITDA,230
-NVDA,Stockrow,2013-10,Revenues,1053
-NVDA,Stockrow,2013-10,Gross Profit,584
-NVDA,Stockrow,2013-10,Operating Income,140
-NVDA,Stockrow,2013-10,Net Income,118
-NVDA,Stockrow,2013-10,EPS,0.2
-NVDA,Stockrow,2013-10,EBITDA,205
-NVDA,Stockrow,2013-07,Revenues,977
-NVDA,Stockrow,2013-07,Gross Profit,545
-NVDA,Stockrow,2013-07,Operating Income,105
-NVDA,Stockrow,2013-07,Net Income,96
-NVDA,Stockrow,2013-07,EPS,0.16
-NVDA,Stockrow,2013-07,EBITDA,174
-NVDA,Stockrow,2013-04,Revenues,954
-NVDA,Stockrow,2013-04,Gross Profit,518
-NVDA,Stockrow,2013-04,Operating Income,82
-NVDA,Stockrow,2013-04,Net Income,77
-NVDA,Stockrow,2013-04,EPS,0.13
-NVDA,Stockrow,2013-04,EBITDA,148
-NVDA,Stockrow,2013-01,Revenues,1106
-NVDA,Stockrow,2013-01,Gross Profit,585
-NVDA,Stockrow,2013-01,Operating Income,187
-NVDA,Stockrow,2013-01,Net Income,173
-NVDA,Stockrow,2013-01,EPS,0.28
-NVDA,Stockrow,2013-01,EBITDA,247
-NVDA,Stockrow,2012-10,Revenues,1204
-NVDA,Stockrow,2012-10,Gross Profit,636
-NVDA,Stockrow,2012-10,Operating Income,248
-NVDA,Stockrow,2012-10,Net Income,209
-NVDA,Stockrow,2012-10,EPS,0.34
-NVDA,Stockrow,2012-10,EBITDA,310
-NVDA,Stockrow,2012-07,Revenues,1044
-NVDA,Stockrow,2012-07,Gross Profit,540
-NVDA,Stockrow,2012-07,Operating Income,139
-NVDA,Stockrow,2012-07,Net Income,119
-NVDA,Stockrow,2012-07,EPS,0.19
-NVDA,Stockrow,2012-07,EBITDA,201
-NVDA,Stockrow,2012-04,Revenues,924
-NVDA,Stockrow,2012-04,Gross Profit,463
-NVDA,Stockrow,2012-04,Operating Income,72
-NVDA,Stockrow,2012-04,Net Income,60
-NVDA,Stockrow,2012-04,EPS,0.1
-NVDA,Stockrow,2012-04,EBITDA,131
-NVDA,Stockrow,2012-01,Revenues,953
-NVDA,Stockrow,2012-01,Gross Profit,490
-NVDA,Stockrow,2012-01,Operating Income,122
-NVDA,Stockrow,2012-01,Net Income,116
-NVDA,Stockrow,2012-01,EPS,0.19
-NVDA,Stockrow,2012-01,EBITDA,179
-NVDA,Stockrow,2011-10,Revenues,1066
-NVDA,Stockrow,2011-10,Gross Profit,556
-NVDA,Stockrow,2011-10,Operating Income,197
-NVDA,Stockrow,2011-10,Net Income,178
-NVDA,Stockrow,2011-10,EPS,0.29
-NVDA,Stockrow,2011-10,EBITDA,257
-NVDA,Stockrow,2011-07,Revenues,1016
-NVDA,Stockrow,2011-07,Gross Profit,525
-NVDA,Stockrow,2011-07,Operating Income,174
-NVDA,Stockrow,2011-07,Net Income,151
-NVDA,Stockrow,2011-07,EPS,0.25
-NVDA,Stockrow,2011-07,EBITDA,229
-NVDA,Stockrow,2011-05,Revenues,962
-NVDA,Stockrow,2011-05,Gross Profit,484
-NVDA,Stockrow,2011-05,Operating Income,151
-NVDA,Stockrow,2011-05,Net Income,135
-NVDA,Stockrow,2011-05,EPS,0.23
-NVDA,Stockrow,2011-05,EBITDA,204
-NVDA,Stockrow,2011-01,Revenues,886
-NVDA,Stockrow,2011-01,Gross Profit,426
-NVDA,Stockrow,2011-01,Operating Income,179
-NVDA,Stockrow,2011-01,Net Income,171
-NVDA,Stockrow,2011-01,EPS,0.3
-NVDA,Stockrow,2011-01,EBITDA,235
-NVDA,Stockrow,2010-10,Revenues,843
-NVDA,Stockrow,2010-10,Gross Profit,392
-NVDA,Stockrow,2010-10,Operating Income,103
-NVDA,Stockrow,2010-10,Net Income,84
-NVDA,Stockrow,2010-10,EPS,0.15
-NVDA,Stockrow,2010-10,EBITDA,150
-NVDA,Stockrow,2010-08,Revenues,811
-NVDA,Stockrow,2010-08,Gross Profit,134
-NVDA,Stockrow,2010-08,Operating Income,-175
-NVDA,Stockrow,2010-08,Net Income,-140
-NVDA,Stockrow,2010-08,EPS,-0.25
-NVDA,Stockrow,2010-08,EBITDA,-122
-NVDA,Stockrow,2010-05,Revenues,1001
-NVDA,Stockrow,2010-05,Gross Profit,456
-NVDA,Stockrow,2010-05,Operating Income,147
-NVDA,Stockrow,2010-05,Net Income,137
-NVDA,Stockrow,2010-05,EPS,0.24
-NVDA,Stockrow,2010-05,EBITDA,197
-NVDA,Stockrow,2010-01,Revenues,982
-NVDA,Stockrow,2010-01,Gross Profit,438
-NVDA,Stockrow,2010-01,Operating Income,134
-NVDA,Stockrow,2010-01,Net Income,131
-NVDA,Stockrow,2010-01,EPS,0.24
-NVDA,Stockrow,2010-01,EBITDA,190
-NVDA,Stockrow,2009-10,Revenues,903
-NVDA,Stockrow,2009-10,Gross Profit,391
-NVDA,Stockrow,2009-10,Operating Income,107
-NVDA,Stockrow,2009-10,Net Income,107
-NVDA,Stockrow,2009-10,EPS,0.2
-NVDA,Stockrow,2009-10,EBITDA,158
-NVDA,Stockrow,2009-07,Revenues,776
-NVDA,Stockrow,2009-07,Gross Profit,156
-NVDA,Stockrow,2009-07,Operating Income,-110
-NVDA,Stockrow,2009-07,Net Income,-105
-NVDA,Stockrow,2009-07,EPS,-0.19
-NVDA,Stockrow,2009-07,EBITDA,-57
-NVDA,Stockrow,2009-04,Revenues,664
-NVDA,Stockrow,2009-04,Gross Profit,189
-NVDA,Stockrow,2009-04,Operating Income,-230
-NVDA,Stockrow,2009-04,Net Income,-201
-NVDA,Stockrow,2009-04,EPS,-0.37
-NVDA,Stockrow,2009-04,EBITDA,-174
-NVDA,Stockrow,2009-01,Revenues,481
-NVDA,Stockrow,2009-01,Gross Profit,141
-NVDA,Stockrow,2009-01,Operating Income,-175
-NVDA,Stockrow,2009-01,Net Income,-147
-NVDA,Stockrow,2009-01,EPS,-0.26
-NVDA,Stockrow,2009-01,EBITDA,-121
-NVDA,Stockrow,2008-10,Revenues,897
-NVDA,Stockrow,2008-10,Gross Profit,367
-NVDA,Stockrow,2008-10,Operating Income,56
-NVDA,Stockrow,2008-10,Net Income,61
-NVDA,Stockrow,2008-10,EPS,0.11
-NVDA,Stockrow,2008-10,EBITDA,110
-NVDA,Stockrow,2008-07,Revenues,892
-NVDA,Stockrow,2008-07,Gross Profit,149
-NVDA,Stockrow,2008-07,Operating Income,-155
-NVDA,Stockrow,2008-07,Net Income,-120
-NVDA,Stockrow,2008-07,EPS,-0.22
-NVDA,Stockrow,2008-07,EBITDA,-100
-NVDA,Stockrow,2008-04,Revenues,1153
-NVDA,Stockrow,2008-04,Gross Profit,514
-NVDA,Stockrow,2008-04,Operating Income,202
-NVDA,Stockrow,2008-04,Net Income,176
-NVDA,Stockrow,2008-04,EPS,0.32
-NVDA,Stockrow,2008-04,EBITDA,254
-NVDA,Stockrow,2008-01,Revenues,1202
-NVDA,Stockrow,2008-01,Gross Profit,549
-NVDA,Stockrow,2008-01,Operating Income,262
-NVDA,Stockrow,2008-01,Net Income,256
-NVDA,Stockrow,2008-01,EPS,0.46
-NVDA,Stockrow,2008-01,EBITDA,316
-NVDA,Stockrow,2007-10,Revenues,1115
-NVDA,Stockrow,2007-10,Gross Profit,515
-NVDA,Stockrow,2007-10,Operating Income,247
-NVDA,Stockrow,2007-10,Net Income,235
-NVDA,Stockrow,2007-10,EPS,0.42
-NVDA,Stockrow,2007-10,EBITDA,299
+symbol,source,report,period,metric,value
+NVDA,Morningstar,Y,2013-01,Operating Cash Flow,824
+NVDA,Morningstar,Y,2013-01,Free Cash Flow,641
+NVDA,Morningstar,Y,2014-01,Operating Cash Flow,835
+NVDA,Morningstar,Y,2014-01,Free Cash Flow,580
+NVDA,Morningstar,Y,2015-01,Operating Cash Flow,906
+NVDA,Morningstar,Y,2015-01,Free Cash Flow,783
+NVDA,Morningstar,Y,2016-01,Operating Cash Flow,1175
+NVDA,Morningstar,Y,2016-01,Free Cash Flow,1089
+NVDA,Morningstar,Y,2017-01,Operating Cash Flow,1672
+NVDA,Morningstar,Y,2017-01,Free Cash Flow,1496
+NVDA,Morningstar,Q,2016-07,Operating Cash Flow,184
+NVDA,Morningstar,Q,2016-07,Free Cash Flow,152
+NVDA,Morningstar,Q,2016-10,Operating Cash Flow,458
+NVDA,Morningstar,Q,2016-10,Free Cash Flow,420
+NVDA,Morningstar,Q,2017-01,Operating Cash Flow,721
+NVDA,Morningstar,Q,2017-01,Free Cash Flow,670
+NVDA,Morningstar,Q,2017-04,Operating Cash Flow,282
+NVDA,Morningstar,Q,2017-04,Free Cash Flow,228
+NVDA,Morningstar,Q,2017-07,Operating Cash Flow,705
+NVDA,Morningstar,Q,2017-07,Free Cash Flow,651
+NVDA,Morningstar,Y,2013-01,Revenue,4280
+NVDA,Morningstar,Y,2013-01,Gross Profit,2226
+NVDA,Morningstar,Y,2013-01,Operating Income,648
+NVDA,Morningstar,Y,2013-01,Net Income,563
+NVDA,Morningstar,Y,2013-01,EPS,0.91
+NVDA,Morningstar,Y,2013-01,EBITDA,892
+NVDA,Morningstar,Y,2014-01,Revenue,4130
+NVDA,Morningstar,Y,2014-01,Gross Profit,2268
+NVDA,Morningstar,Y,2014-01,Operating Income,496
+NVDA,Morningstar,Y,2014-01,Net Income,440
+NVDA,Morningstar,Y,2014-01,EPS,0.75
+NVDA,Morningstar,Y,2014-01,EBITDA,760
+NVDA,Morningstar,Y,2015-01,Revenue,4682
+NVDA,Morningstar,Y,2015-01,Gross Profit,2599
+NVDA,Morningstar,Y,2015-01,Operating Income,759
+NVDA,Morningstar,Y,2015-01,Net Income,631
+NVDA,Morningstar,Y,2015-01,EPS,1.14
+NVDA,Morningstar,Y,2015-01,EBITDA,1021
+NVDA,Morningstar,Y,2016-01,Revenue,5010
+NVDA,Morningstar,Y,2016-01,Gross Profit,2811
+NVDA,Morningstar,Y,2016-01,Operating Income,747
+NVDA,Morningstar,Y,2016-01,Net Income,614
+NVDA,Morningstar,Y,2016-01,EPS,1.13
+NVDA,Morningstar,Y,2016-01,EBITDA,987
+NVDA,Morningstar,Y,2017-01,Revenue,6910
+NVDA,Morningstar,Y,2017-01,Gross Profit,4063
+NVDA,Morningstar,Y,2017-01,Operating Income,1934
+NVDA,Morningstar,Y,2017-01,Net Income,1666
+NVDA,Morningstar,Y,2017-01,EPS,3.08
+NVDA,Morningstar,Y,2017-01,EBITDA,2150
+NVDA,Morningstar,Q,2016-07,Revenue,1428
+NVDA,Morningstar,Q,2016-07,Gross Profit,826
+NVDA,Morningstar,Q,2016-07,Operating Income,317
+NVDA,Morningstar,Q,2016-07,Net Income,253
+NVDA,Morningstar,Q,2016-07,EPS,0.47
+NVDA,Morningstar,Q,2016-07,EBITDA,376
+NVDA,Morningstar,Q,2016-10,Revenue,2004
+NVDA,Morningstar,Q,2016-10,Gross Profit,1183
+NVDA,Morningstar,Q,2016-10,Operating Income,639
+NVDA,Morningstar,Q,2016-10,Net Income,542
+NVDA,Morningstar,Q,2016-10,EPS,1.01
+NVDA,Morningstar,Q,2016-10,EBITDA,685
+NVDA,Morningstar,Q,2017-01,Revenue,2173
+NVDA,Morningstar,Q,2017-01,Gross Profit,1303
+NVDA,Morningstar,Q,2017-01,Operating Income,733
+NVDA,Morningstar,Q,2017-01,Net Income,654
+NVDA,Morningstar,Q,2017-01,EPS,1.19
+NVDA,Morningstar,Q,2017-01,EBITDA,791
+NVDA,Morningstar,Q,2017-04,Revenue,1937
+NVDA,Morningstar,Q,2017-04,Gross Profit,1150
+NVDA,Morningstar,Q,2017-04,Operating Income,554
+NVDA,Morningstar,Q,2017-04,Net Income,507
+NVDA,Morningstar,Q,2017-04,EPS,0.86
+NVDA,Morningstar,Q,2017-04,EBITDA,599
+NVDA,Morningstar,Q,2017-07,Revenue,2230
+NVDA,Morningstar,Q,2017-07,Gross Profit,1302
+NVDA,Morningstar,Q,2017-07,Operating Income,688
+NVDA,Morningstar,Q,2017-07,Net Income,583
+NVDA,Morningstar,Q,2017-07,EPS,0.98
+NVDA,Morningstar,Q,2017-07,EBITDA,748
+NVDA,ADVFN,Y,2013-01,Revenue,4280.2
+NVDA,ADVFN,Y,2013-01,Gross Profit,2452.6
+NVDA,ADVFN,Y,2013-01,Operating Income,648.2
+NVDA,ADVFN,Y,2013-01,EBITDA,874.5
+NVDA,ADVFN,Y,2013-01,Net Income,562.5
+NVDA,ADVFN,Y,2013-01,EPS,0.91
+NVDA,ADVFN,Y,2013-01,Free Cash Flow,594
+NVDA,ADVFN,Y,2013-01,Operating Cash Flow,824.2
+NVDA,ADVFN,Y,2014-01,Revenue,4130.2
+NVDA,ADVFN,Y,2014-01,Gross Profit,2267.8
+NVDA,ADVFN,Y,2014-01,Operating Income,496.2
+NVDA,ADVFN,Y,2014-01,EBITDA,759.8
+NVDA,ADVFN,Y,2014-01,Net Income,440
+NVDA,ADVFN,Y,2014-01,EPS,0.75
+NVDA,ADVFN,Y,2014-01,Free Cash Flow,580
+NVDA,ADVFN,Y,2014-01,Operating Cash Flow,835.1
+NVDA,ADVFN,Y,2015-01,Revenue,4681.5
+NVDA,ADVFN,Y,2015-01,Gross Profit,2599.5
+NVDA,ADVFN,Y,2015-01,Operating Income,759
+NVDA,ADVFN,Y,2015-01,EBITDA,1021.1
+NVDA,ADVFN,Y,2015-01,Net Income,630.6
+NVDA,ADVFN,Y,2015-01,EPS,1.14
+NVDA,ADVFN,Y,2015-01,Free Cash Flow,783.3
+NVDA,ADVFN,Y,2015-01,Operating Cash Flow,905.7
+NVDA,ADVFN,Y,2016-01,Revenue,5010
+NVDA,ADVFN,Y,2016-01,Gross Profit,2811
+NVDA,ADVFN,Y,2016-01,Operating Income,747
+NVDA,ADVFN,Y,2016-01,EBITDA,987
+NVDA,ADVFN,Y,2016-01,Net Income,614
+NVDA,ADVFN,Y,2016-01,EPS,1.13
+NVDA,ADVFN,Y,2016-01,Free Cash Flow,1089
+NVDA,ADVFN,Y,2016-01,Operating Cash Flow,1175
+NVDA,ADVFN,Y,2017-01,Revenue,6910
+NVDA,ADVFN,Y,2017-01,Gross Profit,4063
+NVDA,ADVFN,Y,2017-01,Operating Income,1934
+NVDA,ADVFN,Y,2017-01,EBITDA,2150
+NVDA,ADVFN,Y,2017-01,Net Income,1666
+NVDA,ADVFN,Y,2017-01,EPS,3.08
+NVDA,ADVFN,Y,2017-01,Free Cash Flow,1496
+NVDA,ADVFN,Y,2017-01,Operating Cash Flow,1672
+NVDA,ADVFN,Q,1999-01,Revenue,0
+NVDA,ADVFN,Q,1999-01,Gross Profit,0
+NVDA,ADVFN,Q,1999-01,Operating Income,0
+NVDA,ADVFN,Q,1999-01,EBITDA,0
+NVDA,ADVFN,Q,1999-01,Net Income,7.7
+NVDA,ADVFN,Q,1999-01,EPS,0.04
+NVDA,ADVFN,Q,1999-01,Free Cash Flow,-9.8
+NVDA,ADVFN,Q,1999-01,Operating Cash Flow,-1.9
+NVDA,ADVFN,Q,1999-04,Revenue,71
+NVDA,ADVFN,Q,1999-04,Gross Profit,26.8
+NVDA,ADVFN,Q,1999-04,Operating Income,0
+NVDA,ADVFN,Q,1999-04,EBITDA,10.7
+NVDA,ADVFN,Q,1999-04,Net Income,6.3
+NVDA,ADVFN,Q,1999-04,EPS,0.02
+NVDA,ADVFN,Q,1999-04,Free Cash Flow,0.9
+NVDA,ADVFN,Q,1999-04,Operating Cash Flow,3.4
+NVDA,ADVFN,Q,1999-07,Revenue,78
+NVDA,ADVFN,Q,1999-07,Gross Profit,30.8
+NVDA,ADVFN,Q,1999-07,Operating Income,0
+NVDA,ADVFN,Q,1999-07,EBITDA,11.9
+NVDA,ADVFN,Q,1999-07,Net Income,6.7
+NVDA,ADVFN,Q,1999-07,EPS,0.02
+NVDA,ADVFN,Q,1999-07,Free Cash Flow,-4.6
+NVDA,ADVFN,Q,1999-07,Operating Cash Flow,0.1
+NVDA,ADVFN,Q,1999-10,Revenue,97
+NVDA,ADVFN,Q,1999-10,Gross Profit,39.4
+NVDA,ADVFN,Q,1999-10,Operating Income,0
+NVDA,ADVFN,Q,1999-10,EBITDA,17.7
+NVDA,ADVFN,Q,1999-10,Net Income,10.6
+NVDA,ADVFN,Q,1999-10,EPS,0.03
+NVDA,ADVFN,Q,1999-10,Free Cash Flow,0.7
+NVDA,ADVFN,Q,1999-10,Operating Cash Flow,10.6
+NVDA,ADVFN,Q,2000-01,Revenue,128.4
+NVDA,ADVFN,Q,2000-01,Gross Profit,51.6
+NVDA,ADVFN,Q,2000-01,Operating Income,0
+NVDA,ADVFN,Q,2000-01,EBITDA,23.8
+NVDA,ADVFN,Q,2000-01,Net Income,14.6
+NVDA,ADVFN,Q,2000-01,EPS,0.04
+NVDA,ADVFN,Q,2000-01,Free Cash Flow,4.3
+NVDA,ADVFN,Q,2000-01,Operating Cash Flow,15.9
+NVDA,ADVFN,Q,2000-04,Revenue,148.5
+NVDA,ADVFN,Q,2000-04,Gross Profit,58.6
+NVDA,ADVFN,Q,2000-04,Operating Income,0
+NVDA,ADVFN,Q,2000-04,EBITDA,28.7
+NVDA,ADVFN,Q,2000-04,Net Income,18.3
+NVDA,ADVFN,Q,2000-04,EPS,0.05
+NVDA,ADVFN,Q,2000-04,Free Cash Flow,3.2
+NVDA,ADVFN,Q,2000-04,Operating Cash Flow,10.6
+NVDA,ADVFN,Q,2000-07,Revenue,170.4
+NVDA,ADVFN,Q,2000-07,Gross Profit,67.1
+NVDA,ADVFN,Q,2000-07,Operating Income,0
+NVDA,ADVFN,Q,2000-07,EBITDA,32.4
+NVDA,ADVFN,Q,2000-07,Net Income,22.5
+NVDA,ADVFN,Q,2000-07,EPS,0.06
+NVDA,ADVFN,Q,2000-07,Free Cash Flow,19.6
+NVDA,ADVFN,Q,2000-07,Operating Cash Flow,34.7
+NVDA,ADVFN,Q,2000-10,Revenue,198.2
+NVDA,ADVFN,Q,2000-10,Gross Profit,77.9
+NVDA,ADVFN,Q,2000-10,Operating Income,0
+NVDA,ADVFN,Q,2000-10,EBITDA,41
+NVDA,ADVFN,Q,2000-10,Net Income,28.1
+NVDA,ADVFN,Q,2000-10,EPS,0.07
+NVDA,ADVFN,Q,2000-10,Free Cash Flow,30.8
+NVDA,ADVFN,Q,2000-10,Operating Cash Flow,52.4
+NVDA,ADVFN,Q,2001-01,Revenue,218.2
+NVDA,ADVFN,Q,2001-01,Gross Profit,87.4
+NVDA,ADVFN,Q,2001-01,Operating Income,0
+NVDA,ADVFN,Q,2001-01,EBITDA,44.1
+NVDA,ADVFN,Q,2001-01,Net Income,31.1
+NVDA,ADVFN,Q,2001-01,EPS,0.08
+NVDA,ADVFN,Q,2001-01,Free Cash Flow,31.6
+NVDA,ADVFN,Q,2001-01,Operating Cash Flow,67.9
+NVDA,ADVFN,Q,2001-04,Revenue,240.9
+NVDA,ADVFN,Q,2001-04,Gross Profit,97.8
+NVDA,ADVFN,Q,2001-04,Operating Income,31.4
+NVDA,ADVFN,Q,2001-04,EBITDA,47.9
+NVDA,ADVFN,Q,2001-04,Net Income,25.9
+NVDA,ADVFN,Q,2001-04,EPS,0.06
+NVDA,ADVFN,Q,2001-04,Free Cash Flow,-59.7
+NVDA,ADVFN,Q,2001-04,Operating Cash Flow,35.7
+NVDA,ADVFN,Q,2001-07,Revenue,260.3
+NVDA,ADVFN,Q,2001-07,Gross Profit,110.3
+NVDA,ADVFN,Q,2001-07,Operating Income,45.3
+NVDA,ADVFN,Q,2001-07,EBITDA,56.7
+NVDA,ADVFN,Q,2001-07,Net Income,33.6
+NVDA,ADVFN,Q,2001-07,EPS,0.08
+NVDA,ADVFN,Q,2001-07,Free Cash Flow,-25.9
+NVDA,ADVFN,Q,2001-07,Operating Cash Flow,93.8
+NVDA,ADVFN,Q,2001-10,Revenue,370.2
+NVDA,ADVFN,Q,2001-10,Gross Profit,146.4
+NVDA,ADVFN,Q,2001-10,Operating Income,62.1
+NVDA,ADVFN,Q,2001-10,EBITDA,77.3
+NVDA,ADVFN,Q,2001-10,Net Income,44.7
+NVDA,ADVFN,Q,2001-10,EPS,0.1
+NVDA,ADVFN,Q,2001-10,Free Cash Flow,-27.7
+NVDA,ADVFN,Q,2001-10,Operating Cash Flow,113.3
+NVDA,ADVFN,Q,2002-01,Revenue,498
+NVDA,ADVFN,Q,2002-01,Gross Profit,196.1
+NVDA,ADVFN,Q,2002-01,Operating Income,102.9
+NVDA,ADVFN,Q,2002-01,EBITDA,117.8
+NVDA,ADVFN,Q,2002-01,Net Income,72.8
+NVDA,ADVFN,Q,2002-01,EPS,0.17
+NVDA,ADVFN,Q,2002-01,Free Cash Flow,-0.3
+NVDA,ADVFN,Q,2002-01,Operating Cash Flow,160.8
+NVDA,ADVFN,Q,2002-04,Revenue,582.9
+NVDA,ADVFN,Q,2002-04,Gross Profit,220
+NVDA,ADVFN,Q,2002-04,Operating Income,117.2
+NVDA,ADVFN,Q,2002-04,EBITDA,130
+NVDA,ADVFN,Q,2002-04,Net Income,83.2
+NVDA,ADVFN,Q,2002-04,EPS,0.18
+NVDA,ADVFN,Q,2002-04,Free Cash Flow,23.6
+NVDA,ADVFN,Q,2002-04,Operating Cash Flow,48.8
+NVDA,ADVFN,Q,2002-07,Revenue,427.3
+NVDA,ADVFN,Q,2002-07,Gross Profit,113.4
+NVDA,ADVFN,Q,2002-07,Operating Income,6.2
+NVDA,ADVFN,Q,2002-07,EBITDA,20.2
+NVDA,ADVFN,Q,2002-07,Net Income,5.3
+NVDA,ADVFN,Q,2002-07,EPS,0.01
+NVDA,ADVFN,Q,2002-07,Free Cash Flow,0.4
+NVDA,ADVFN,Q,2002-07,Operating Cash Flow,49.4
+NVDA,ADVFN,Q,2002-10,Revenue,430.3
+NVDA,ADVFN,Q,2002-10,Gross Profit,124.4
+NVDA,ADVFN,Q,2002-10,Operating Income,-50.1
+NVDA,ADVFN,Q,2002-10,EBITDA,27.9
+NVDA,ADVFN,Q,2002-10,Net Income,-48.6
+NVDA,ADVFN,Q,2002-10,EPS,-0.11
+NVDA,ADVFN,Q,2002-10,Free Cash Flow,83.6
+NVDA,ADVFN,Q,2002-10,Operating Cash Flow,140.7
+NVDA,ADVFN,Q,2003-01,Revenue,469
+NVDA,ADVFN,Q,2003-01,Gross Profit,176.5
+NVDA,ADVFN,Q,2003-01,Operating Income,70.7
+NVDA,ADVFN,Q,2003-01,EBITDA,24.1
+NVDA,ADVFN,Q,2003-01,Net Income,50.9
+NVDA,ADVFN,Q,2003-01,EPS,0.11
+NVDA,ADVFN,Q,2003-01,Free Cash Flow,198
+NVDA,ADVFN,Q,2003-01,Operating Cash Flow,265
+NVDA,ADVFN,Q,2003-04,Revenue,405
+NVDA,ADVFN,Q,2003-04,Gross Profit,142.5
+NVDA,ADVFN,Q,2003-04,Operating Income,26.3
+NVDA,ADVFN,Q,2003-04,EBITDA,42.3
+NVDA,ADVFN,Q,2003-04,Net Income,19.7
+NVDA,ADVFN,Q,2003-04,EPS,0.04
+NVDA,ADVFN,Q,2003-04,Free Cash Flow,14.8
+NVDA,ADVFN,Q,2003-04,Operating Cash Flow,40.4
+NVDA,ADVFN,Q,2003-07,Revenue,459.8
+NVDA,ADVFN,Q,2003-07,Gross Profit,149.6
+NVDA,ADVFN,Q,2003-07,Operating Income,24.6
+NVDA,ADVFN,Q,2003-07,EBITDA,44.2
+NVDA,ADVFN,Q,2003-07,Net Income,24.2
+NVDA,ADVFN,Q,2003-07,EPS,0.05
+NVDA,ADVFN,Q,2003-07,Free Cash Flow,-32.6
+NVDA,ADVFN,Q,2003-07,Operating Cash Flow,59.2
+NVDA,ADVFN,Q,2003-10,Revenue,486.1
+NVDA,ADVFN,Q,2003-10,Gross Profit,157
+NVDA,ADVFN,Q,2003-10,Operating Income,15.4
+NVDA,ADVFN,Q,2003-10,EBITDA,41.7
+NVDA,ADVFN,Q,2003-10,Net Income,6.4
+NVDA,ADVFN,Q,2003-10,EPS,0.01
+NVDA,ADVFN,Q,2003-10,Free Cash Flow,-135.9
+NVDA,ADVFN,Q,2003-10,Operating Cash Flow,50.6
+NVDA,ADVFN,Q,2004-01,Revenue,472.1
+NVDA,ADVFN,Q,2004-01,Gross Profit,162.5
+NVDA,ADVFN,Q,2004-01,Operating Income,23.8
+NVDA,ADVFN,Q,2004-01,EBITDA,48.1
+NVDA,ADVFN,Q,2004-01,Net Income,24.2
+NVDA,ADVFN,Q,2004-01,EPS,0.05
+NVDA,ADVFN,Q,2004-01,Free Cash Flow,-149.2
+NVDA,ADVFN,Q,2004-01,Operating Cash Flow,49.7
+NVDA,ADVFN,Q,2004-04,Revenue,471.9
+NVDA,ADVFN,Q,2004-04,Gross Profit,172.2
+NVDA,ADVFN,Q,2004-04,Operating Income,23.9
+NVDA,ADVFN,Q,2004-04,EBITDA,47.3
+NVDA,ADVFN,Q,2004-04,Net Income,21.3
+NVDA,ADVFN,Q,2004-04,EPS,0.04
+NVDA,ADVFN,Q,2004-04,Free Cash Flow,42.9
+NVDA,ADVFN,Q,2004-04,Operating Cash Flow,61.5
+NVDA,ADVFN,Q,2004-07,Revenue,456.1
+NVDA,ADVFN,Q,2004-07,Gross Profit,164.2
+NVDA,ADVFN,Q,2004-07,Operating Income,3.8
+NVDA,ADVFN,Q,2004-07,EBITDA,27.9
+NVDA,ADVFN,Q,2004-07,Net Income,5.1
+NVDA,ADVFN,Q,2004-07,EPS,0.01
+NVDA,ADVFN,Q,2004-07,Free Cash Flow,-2.6
+NVDA,ADVFN,Q,2004-07,Operating Cash Flow,32.6
+NVDA,ADVFN,Q,2004-10,Revenue,515.6
+NVDA,ADVFN,Q,2004-10,Gross Profit,190.8
+NVDA,ADVFN,Q,2004-10,Operating Income,28.8
+NVDA,ADVFN,Q,2004-10,EBITDA,52.8
+NVDA,ADVFN,Q,2004-10,Net Income,25.9
+NVDA,ADVFN,Q,2004-10,EPS,0.05
+NVDA,ADVFN,Q,2004-10,Free Cash Flow,-16.3
+NVDA,ADVFN,Q,2004-10,Operating Cash Flow,33
+NVDA,ADVFN,Q,2005-01,Revenue,566.5
+NVDA,ADVFN,Q,2005-01,Gross Profit,224.9
+NVDA,ADVFN,Q,2005-01,Operating Income,57.2
+NVDA,ADVFN,Q,2005-01,EBITDA,88.2
+NVDA,ADVFN,Q,2005-01,Net Income,48
+NVDA,ADVFN,Q,2005-01,EPS,0.09
+NVDA,ADVFN,Q,2005-01,Free Cash Flow,64.9
+NVDA,ADVFN,Q,2005-01,Operating Cash Flow,132.2
+NVDA,ADVFN,Q,2005-04,Revenue,583.8
+NVDA,ADVFN,Q,2005-04,Gross Profit,235
+NVDA,ADVFN,Q,2005-04,Operating Income,76.2
+NVDA,ADVFN,Q,2005-04,EBITDA,101.1
+NVDA,ADVFN,Q,2005-04,Net Income,64.4
+NVDA,ADVFN,Q,2005-04,EPS,0.13
+NVDA,ADVFN,Q,2005-04,Free Cash Flow,76.1
+NVDA,ADVFN,Q,2005-04,Operating Cash Flow,89.6
+NVDA,ADVFN,Q,2005-07,Revenue,574.8
+NVDA,ADVFN,Q,2005-07,Gross Profit,242.3
+NVDA,ADVFN,Q,2005-07,Operating Income,80
+NVDA,ADVFN,Q,2005-07,EBITDA,104.8
+NVDA,ADVFN,Q,2005-07,Net Income,74.8
+NVDA,ADVFN,Q,2005-07,EPS,0.15
+NVDA,ADVFN,Q,2005-07,Free Cash Flow,94.2
+NVDA,ADVFN,Q,2005-07,Operating Cash Flow,136.9
+NVDA,ADVFN,Q,2005-10,Revenue,583.4
+NVDA,ADVFN,Q,2005-10,Gross Profit,252.7
+NVDA,ADVFN,Q,2005-10,Operating Income,71.5
+NVDA,ADVFN,Q,2005-10,EBITDA,110.2
+NVDA,ADVFN,Q,2005-10,Net Income,65.3
+NVDA,ADVFN,Q,2005-10,EPS,0.13
+NVDA,ADVFN,Q,2005-10,Free Cash Flow,164.9
+NVDA,ADVFN,Q,2005-10,Operating Cash Flow,221
+NVDA,ADVFN,Q,2006-01,Revenue,633.6
+NVDA,ADVFN,Q,2006-01,Gross Profit,278.7
+NVDA,ADVFN,Q,2006-01,Operating Income,112.3
+NVDA,ADVFN,Q,2006-01,EBITDA,136.1
+NVDA,ADVFN,Q,2006-01,Net Income,98.1
+NVDA,ADVFN,Q,2006-01,EPS,0.19
+NVDA,ADVFN,Q,2006-01,Free Cash Flow,354.7
+NVDA,ADVFN,Q,2006-01,Operating Cash Flow,446.4
+NVDA,ADVFN,Q,2006-04,Revenue,681.8
+NVDA,ADVFN,Q,2006-04,Gross Profit,312.8
+NVDA,ADVFN,Q,2006-04,Operating Income,100.7
+NVDA,ADVFN,Q,2006-04,EBITDA,124.7
+NVDA,ADVFN,Q,2006-04,Net Income,90.7
+NVDA,ADVFN,Q,2006-04,EPS,0.17
+NVDA,ADVFN,Q,2006-04,Free Cash Flow,-37.3
+NVDA,ADVFN,Q,2006-04,Operating Cash Flow,50.4
+NVDA,ADVFN,Q,2006-07,Revenue,687.5
+NVDA,ADVFN,Q,2006-07,Gross Profit,316.3
+NVDA,ADVFN,Q,2006-07,Operating Income,95.8
+NVDA,ADVFN,Q,2006-07,EBITDA,120
+NVDA,ADVFN,Q,2006-07,Net Income,86.8
+NVDA,ADVFN,Q,2006-07,EPS,0.17
+NVDA,ADVFN,Q,2006-07,Free Cash Flow,-40.4
+NVDA,ADVFN,Q,2006-07,Operating Cash Flow,67.4
+NVDA,ADVFN,Q,2006-10,Revenue,820.6
+NVDA,ADVFN,Q,2006-10,Gross Profit,359
+NVDA,ADVFN,Q,2006-10,Operating Income,117.6
+NVDA,ADVFN,Q,2006-10,EBITDA,142.6
+NVDA,ADVFN,Q,2006-10,Net Income,106.5
+NVDA,ADVFN,Q,2006-10,EPS,0.2
+NVDA,ADVFN,Q,2006-10,Free Cash Flow,220.1
+NVDA,ADVFN,Q,2006-10,Operating Cash Flow,356.7
+NVDA,ADVFN,Q,2007-01,Revenue,878.9
+NVDA,ADVFN,Q,2007-01,Gross Profit,420
+NVDA,ADVFN,Q,2007-01,Operating Income,138.5
+NVDA,ADVFN,Q,2007-01,EBITDA,172.8
+NVDA,ADVFN,Q,2007-01,Net Income,163.5
+NVDA,ADVFN,Q,2007-01,EPS,0.29
+NVDA,ADVFN,Q,2007-01,Free Cash Flow,40.1
+NVDA,ADVFN,Q,2007-01,Operating Cash Flow,587.1
+NVDA,ADVFN,Q,2007-04,Revenue,844.3
+NVDA,ADVFN,Q,2007-04,Gross Profit,411.5
+NVDA,ADVFN,Q,2007-04,Operating Income,141.2
+NVDA,ADVFN,Q,2007-04,EBITDA,172.6
+NVDA,ADVFN,Q,2007-04,Net Income,132.3
+NVDA,ADVFN,Q,2007-04,EPS,0.25
+NVDA,ADVFN,Q,2007-04,Free Cash Flow,268.9
+NVDA,ADVFN,Q,2007-04,Operating Cash Flow,306.5
+NVDA,ADVFN,Q,2007-07,Revenue,935.3
+NVDA,ADVFN,Q,2007-07,Gross Profit,455.9
+NVDA,ADVFN,Q,2007-07,Operating Income,184.8
+NVDA,ADVFN,Q,2007-07,EBITDA,216.7
+NVDA,ADVFN,Q,2007-07,Net Income,172.7
+NVDA,ADVFN,Q,2007-07,EPS,0.31
+NVDA,ADVFN,Q,2007-07,Free Cash Flow,569.9
+NVDA,ADVFN,Q,2007-07,Operating Cash Flow,637.6
+NVDA,ADVFN,Q,2007-10,Revenue,1115.6
+NVDA,ADVFN,Q,2007-10,Gross Profit,548.6
+NVDA,ADVFN,Q,2007-10,Operating Income,247.8
+NVDA,ADVFN,Q,2007-10,EBITDA,280.9
+NVDA,ADVFN,Q,2007-10,Net Income,235.7
+NVDA,ADVFN,Q,2007-10,EPS,0.42
+NVDA,ADVFN,Q,2007-10,Free Cash Flow,900.3
+NVDA,ADVFN,Q,2007-10,Operating Cash Flow,1017.7
+NVDA,ADVFN,Q,2008-01,Revenue,1202.7
+NVDA,ADVFN,Q,2008-01,Gross Profit,586.5
+NVDA,ADVFN,Q,2008-01,Operating Income,262.5
+NVDA,ADVFN,Q,2008-01,EBITDA,299.4
+NVDA,ADVFN,Q,2008-01,Net Income,257
+NVDA,ADVFN,Q,2008-01,EPS,0.46
+NVDA,ADVFN,Q,2008-01,Free Cash Flow,1006.9
+NVDA,ADVFN,Q,2008-01,Operating Cash Flow,1270.2
+NVDA,ADVFN,Q,2008-04,Revenue,1153.4
+NVDA,ADVFN,Q,2008-04,Gross Profit,556.2
+NVDA,ADVFN,Q,2008-04,Operating Income,203
+NVDA,ADVFN,Q,2008-04,EBITDA,244.3
+NVDA,ADVFN,Q,2008-04,Net Income,176.8
+NVDA,ADVFN,Q,2008-04,EPS,0.32
+NVDA,ADVFN,Q,2008-04,Free Cash Flow,-84.9
+NVDA,ADVFN,Q,2008-04,Operating Cash Flow,145.2
+NVDA,ADVFN,Q,2008-07,Revenue,892.7
+NVDA,ADVFN,Q,2008-07,Gross Profit,196.2
+NVDA,ADVFN,Q,2008-07,Operating Income,-155.4
+NVDA,ADVFN,Q,2008-07,EBITDA,-109.1
+NVDA,ADVFN,Q,2008-07,Net Income,-120.9
+NVDA,ADVFN,Q,2008-07,EPS,-0.22
+NVDA,ADVFN,Q,2008-07,Free Cash Flow,-57.4
+NVDA,ADVFN,Q,2008-07,Operating Cash Flow,226.2
+NVDA,ADVFN,Q,2008-10,Revenue,897.7
+NVDA,ADVFN,Q,2008-10,Gross Profit,417.1
+NVDA,ADVFN,Q,2008-10,Operating Income,56.8
+NVDA,ADVFN,Q,2008-10,EBITDA,114.4
+NVDA,ADVFN,Q,2008-10,Net Income,61.7
+NVDA,ADVFN,Q,2008-10,EPS,0.11
+NVDA,ADVFN,Q,2008-10,Free Cash Flow,-123.4
+NVDA,ADVFN,Q,2008-10,Operating Cash Flow,269.2
+NVDA,ADVFN,Q,2009-01,Revenue,481.1
+NVDA,ADVFN,Q,2009-01,Gross Profit,189.7
+NVDA,ADVFN,Q,2009-01,Operating Income,-175.1
+NVDA,ADVFN,Q,2009-01,EBITDA,-108.5
+NVDA,ADVFN,Q,2009-01,Net Income,-147.7
+NVDA,ADVFN,Q,2009-01,EPS,-0.26
+NVDA,ADVFN,Q,2009-01,Free Cash Flow,-186.3
+NVDA,ADVFN,Q,2009-01,Operating Cash Flow,249.4
+NVDA,ADVFN,Q,2009-04,Revenue,664.2
+NVDA,ADVFN,Q,2009-04,Gross Profit,240.4
+NVDA,ADVFN,Q,2009-04,Operating Income,-231
+NVDA,ADVFN,Q,2009-04,EBITDA,-180.3
+NVDA,ADVFN,Q,2009-04,Net Income,-201.3
+NVDA,ADVFN,Q,2009-04,EPS,-0.37
+NVDA,ADVFN,Q,2009-04,Free Cash Flow,121.4
+NVDA,ADVFN,Q,2009-04,Operating Cash Flow,142.1
+NVDA,ADVFN,Q,2009-07,Revenue,776.5
+NVDA,ADVFN,Q,2009-07,Gross Profit,206
+NVDA,ADVFN,Q,2009-07,Operating Income,-110.1
+NVDA,ADVFN,Q,2009-07,EBITDA,-60.8
+NVDA,ADVFN,Q,2009-07,Net Income,-105.3
+NVDA,ADVFN,Q,2009-07,EPS,-0.19
+NVDA,ADVFN,Q,2009-07,Free Cash Flow,238.8
+NVDA,ADVFN,Q,2009-07,Operating Cash Flow,277.2
+NVDA,ADVFN,Q,2009-10,Revenue,903.2
+NVDA,ADVFN,Q,2009-10,Gross Profit,440.6
+NVDA,ADVFN,Q,2009-10,Operating Income,107.8
+NVDA,ADVFN,Q,2009-10,EBITDA,156.6
+NVDA,ADVFN,Q,2009-10,Net Income,107.6
+NVDA,ADVFN,Q,2009-10,EPS,0.2
+NVDA,ADVFN,Q,2009-10,Free Cash Flow,363.5
+NVDA,ADVFN,Q,2009-10,Operating Cash Flow,418.6
+NVDA,ADVFN,Q,2010-01,Revenue,982.5
+NVDA,ADVFN,Q,2010-01,Gross Profit,486.6
+NVDA,ADVFN,Q,2010-01,Operating Income,134.3
+NVDA,ADVFN,Q,2010-01,EBITDA,182.2
+NVDA,ADVFN,Q,2010-01,Net Income,131.1
+NVDA,ADVFN,Q,2010-01,EPS,0.24
+NVDA,ADVFN,Q,2010-01,Free Cash Flow,410.2
+NVDA,ADVFN,Q,2010-01,Operating Cash Flow,487.8
+NVDA,ADVFN,Q,2010-04,Revenue,1001.8
+NVDA,ADVFN,Q,2010-04,Gross Profit,503.5
+NVDA,ADVFN,Q,2010-04,Operating Income,147.4
+NVDA,ADVFN,Q,2010-04,EBITDA,194.5
+NVDA,ADVFN,Q,2010-04,Net Income,137.6
+NVDA,ADVFN,Q,2010-04,EPS,0.24
+NVDA,ADVFN,Q,2010-04,Free Cash Flow,-22.5
+NVDA,ADVFN,Q,2010-04,Operating Cash Flow,-5.4
+NVDA,ADVFN,Q,2010-07,Revenue,811.2
+NVDA,ADVFN,Q,2010-07,Gross Profit,180.9
+NVDA,ADVFN,Q,2010-07,Operating Income,-175.2
+NVDA,ADVFN,Q,2010-07,EBITDA,-128.6
+NVDA,ADVFN,Q,2010-07,Net Income,-141
+NVDA,ADVFN,Q,2010-07,EPS,-0.25
+NVDA,ADVFN,Q,2010-07,Free Cash Flow,-25.8
+NVDA,ADVFN,Q,2010-07,Operating Cash Flow,28.9
+NVDA,ADVFN,Q,2010-10,Revenue,843.9
+NVDA,ADVFN,Q,2010-10,Gross Profit,438.9
+NVDA,ADVFN,Q,2010-10,Operating Income,103.8
+NVDA,ADVFN,Q,2010-10,EBITDA,150.7
+NVDA,ADVFN,Q,2010-10,Net Income,84.9
+NVDA,ADVFN,Q,2010-10,EPS,0.15
+NVDA,ADVFN,Q,2010-10,Free Cash Flow,164.6
+NVDA,ADVFN,Q,2010-10,Operating Cash Flow,241.1
+NVDA,ADVFN,Q,2011-01,Revenue,886.4
+NVDA,ADVFN,Q,2011-01,Gross Profit,472.8
+NVDA,ADVFN,Q,2011-01,Operating Income,179.8
+NVDA,ADVFN,Q,2011-01,EBITDA,112.2
+NVDA,ADVFN,Q,2011-01,Net Income,171.7
+NVDA,ADVFN,Q,2011-01,EPS,0.3
+NVDA,ADVFN,Q,2011-01,Free Cash Flow,577.9
+NVDA,ADVFN,Q,2011-01,Operating Cash Flow,675.8
+NVDA,ADVFN,Q,2011-04,Revenue,962
+NVDA,ADVFN,Q,2011-04,Gross Profit,532.3
+NVDA,ADVFN,Q,2011-04,Operating Income,154.9
+NVDA,ADVFN,Q,2011-04,EBITDA,202.6
+NVDA,ADVFN,Q,2011-04,Net Income,135.2
+NVDA,ADVFN,Q,2011-04,EPS,0.23
+NVDA,ADVFN,Q,2011-04,Free Cash Flow,141
+NVDA,ADVFN,Q,2011-04,Operating Cash Flow,172.2
+NVDA,ADVFN,Q,2011-07,Revenue,1016.5
+NVDA,ADVFN,Q,2011-07,Gross Profit,577.4
+NVDA,ADVFN,Q,2011-07,Operating Income,174
+NVDA,ADVFN,Q,2011-07,EBITDA,226.2
+NVDA,ADVFN,Q,2011-07,Net Income,151.6
+NVDA,ADVFN,Q,2011-07,EPS,0.25
+NVDA,ADVFN,Q,2011-07,Free Cash Flow,-149.2
+NVDA,ADVFN,Q,2011-07,Operating Cash Flow,254.2
+NVDA,ADVFN,Q,2011-10,Revenue,1066.2
+NVDA,ADVFN,Q,2011-10,Gross Profit,609.1
+NVDA,ADVFN,Q,2011-10,Operating Income,197.1
+NVDA,ADVFN,Q,2011-10,EBITDA,249.5
+NVDA,ADVFN,Q,2011-10,Net Income,178.3
+NVDA,ADVFN,Q,2011-10,EPS,0.29
+NVDA,ADVFN,Q,2011-10,Free Cash Flow,56.2
+NVDA,ADVFN,Q,2011-10,Operating Cash Flow,498.6
+NVDA,ADVFN,Q,2012-01,Revenue,953.2
+NVDA,ADVFN,Q,2012-01,Gross Profit,541.9
+NVDA,ADVFN,Q,2012-01,Operating Income,122.3
+NVDA,ADVFN,Q,2012-01,EBITDA,174.2
+NVDA,ADVFN,Q,2012-01,Net Income,116
+NVDA,ADVFN,Q,2012-01,EPS,0.19
+NVDA,ADVFN,Q,2012-01,Free Cash Flow,421.5
+NVDA,ADVFN,Q,2012-01,Operating Cash Flow,909.2
+NVDA,ADVFN,Q,2012-04,Revenue,924.9
+NVDA,ADVFN,Q,2012-04,Gross Profit,517.9
+NVDA,ADVFN,Q,2012-04,Operating Income,72.8
+NVDA,ADVFN,Q,2012-04,EBITDA,127.3
+NVDA,ADVFN,Q,2012-04,Net Income,60.4
+NVDA,ADVFN,Q,2012-04,EPS,0.1
+NVDA,ADVFN,Q,2012-04,Free Cash Flow,-38.1
+NVDA,ADVFN,Q,2012-04,Operating Cash Flow,-9.2
+NVDA,ADVFN,Q,2012-07,Revenue,1044.3
+NVDA,ADVFN,Q,2012-07,Gross Profit,596.9
+NVDA,ADVFN,Q,2012-07,Operating Income,139.6
+NVDA,ADVFN,Q,2012-07,EBITDA,195.8
+NVDA,ADVFN,Q,2012-07,Net Income,119
+NVDA,ADVFN,Q,2012-07,EPS,0.19
+NVDA,ADVFN,Q,2012-07,Free Cash Flow,100.8
+NVDA,ADVFN,Q,2012-07,Operating Cash Flow,191.7
+NVDA,ADVFN,Q,2012-10,Revenue,1204.1
+NVDA,ADVFN,Q,2012-10,Gross Profit,693.8
+NVDA,ADVFN,Q,2012-10,Operating Income,252.2
+NVDA,ADVFN,Q,2012-10,EBITDA,309.4
+NVDA,ADVFN,Q,2012-10,Net Income,209.1
+NVDA,ADVFN,Q,2012-10,EPS,0.34
+NVDA,ADVFN,Q,2012-10,Free Cash Flow,237.6
+NVDA,ADVFN,Q,2012-10,Operating Cash Flow,373.2
+NVDA,ADVFN,Q,2013-01,Revenue,1106.9
+NVDA,ADVFN,Q,2013-01,Gross Profit,644
+NVDA,ADVFN,Q,2013-01,Operating Income,183.6
+NVDA,ADVFN,Q,2013-01,EBITDA,242
+NVDA,ADVFN,Q,2013-01,Net Income,174
+NVDA,ADVFN,Q,2013-01,EPS,0.28
+NVDA,ADVFN,Q,2013-01,Free Cash Flow,594
+NVDA,ADVFN,Q,2013-01,Operating Cash Flow,824.2
+NVDA,ADVFN,Q,2013-04,Revenue,954.7
+NVDA,ADVFN,Q,2013-04,Gross Profit,578.3
+NVDA,ADVFN,Q,2013-04,Operating Income,82.8
+NVDA,ADVFN,Q,2013-04,EBITDA,142.5
+NVDA,ADVFN,Q,2013-04,Net Income,77.9
+NVDA,ADVFN,Q,2013-04,EPS,0.13
+NVDA,ADVFN,Q,2013-04,Free Cash Flow,63.7
+NVDA,ADVFN,Q,2013-04,Operating Cash Flow,175.7
+NVDA,ADVFN,Q,2013-07,Revenue,977.2
+NVDA,ADVFN,Q,2013-07,Gross Profit,545.5
+NVDA,ADVFN,Q,2013-07,Operating Income,105.5
+NVDA,ADVFN,Q,2013-07,EBITDA,167.4
+NVDA,ADVFN,Q,2013-07,Net Income,96.4
+NVDA,ADVFN,Q,2013-07,EPS,0.16
+NVDA,ADVFN,Q,2013-07,Free Cash Flow,11.5
+NVDA,ADVFN,Q,2013-07,Operating Cash Flow,96.5
+NVDA,ADVFN,Q,2013-10,Revenue,1054
+NVDA,ADVFN,Q,2013-10,Gross Profit,584.4
+NVDA,ADVFN,Q,2013-10,Operating Income,141
+NVDA,ADVFN,Q,2013-10,EBITDA,203.7
+NVDA,ADVFN,Q,2013-10,Net Income,118.7
+NVDA,ADVFN,Q,2013-10,EPS,0.2
+NVDA,ADVFN,Q,2013-10,Free Cash Flow,124.2
+NVDA,ADVFN,Q,2013-10,Operating Cash Flow,162.3
+NVDA,ADVFN,Q,2014-01,Revenue,1144.2
+NVDA,ADVFN,Q,2014-01,Gross Profit,619.2
+NVDA,ADVFN,Q,2014-01,Operating Income,166.9
+NVDA,ADVFN,Q,2014-01,EBITDA,246.2
+NVDA,ADVFN,Q,2014-01,Net Income,146.9
+NVDA,ADVFN,Q,2014-01,EPS,0.26
+NVDA,ADVFN,Q,2014-01,Free Cash Flow,334.3
+NVDA,ADVFN,Q,2014-01,Operating Cash Flow,400.7
+NVDA,ADVFN,Q,2014-04,Revenue,1102.8
+NVDA,ADVFN,Q,2014-04,Gross Profit,604.2
+NVDA,ADVFN,Q,2014-04,Operating Income,151.4
+NVDA,ADVFN,Q,2014-04,EBITDA,229.8
+NVDA,ADVFN,Q,2014-04,Net Income,136.5
+NVDA,ADVFN,Q,2014-04,EPS,0.24
+NVDA,ADVFN,Q,2014-04,Free Cash Flow,122
+NVDA,ADVFN,Q,2014-04,Operating Cash Flow,151
+NVDA,ADVFN,Q,2014-07,Revenue,1102.8
+NVDA,ADVFN,Q,2014-07,Gross Profit,619
+NVDA,ADVFN,Q,2014-07,Operating Income,163.2
+NVDA,ADVFN,Q,2014-07,EBITDA,221.8
+NVDA,ADVFN,Q,2014-07,Net Income,128
+NVDA,ADVFN,Q,2014-07,EPS,0.23
+NVDA,ADVFN,Q,2014-07,Free Cash Flow,73.8
+NVDA,ADVFN,Q,2014-07,Operating Cash Flow,96.3
+NVDA,ADVFN,Q,2014-10,Revenue,1225.4
+NVDA,ADVFN,Q,2014-10,Gross Profit,676.7
+NVDA,ADVFN,Q,2014-10,Operating Income,213.3
+NVDA,ADVFN,Q,2014-10,EBITDA,276.1
+NVDA,ADVFN,Q,2014-10,Net Income,173
+NVDA,ADVFN,Q,2014-10,EPS,0.32
+NVDA,ADVFN,Q,2014-10,Free Cash Flow,175.9
+NVDA,ADVFN,Q,2014-10,Operating Cash Flow,215.6
+NVDA,ADVFN,Q,2015-01,Revenue,1250.5
+NVDA,ADVFN,Q,2015-01,Gross Profit,699.6
+NVDA,ADVFN,Q,2015-01,Operating Income,231.1
+NVDA,ADVFN,Q,2015-01,EBITDA,293.4
+NVDA,ADVFN,Q,2015-01,Net Income,193.1
+NVDA,ADVFN,Q,2015-01,EPS,0.35
+NVDA,ADVFN,Q,2015-01,Free Cash Flow,411.7
+NVDA,ADVFN,Q,2015-01,Operating Cash Flow,442.7
+NVDA,ADVFN,Q,2015-04,Revenue,1151
+NVDA,ADVFN,Q,2015-04,Gross Profit,653
+NVDA,ADVFN,Q,2015-04,Operating Income,176
+NVDA,ADVFN,Q,2015-04,EBITDA,238
+NVDA,ADVFN,Q,2015-04,Net Income,134
+NVDA,ADVFN,Q,2015-04,EPS,0.24
+NVDA,ADVFN,Q,2015-04,Free Cash Flow,216
+NVDA,ADVFN,Q,2015-04,Operating Cash Flow,246
+NVDA,ADVFN,Q,2015-07,Revenue,1153
+NVDA,ADVFN,Q,2015-07,Gross Profit,634
+NVDA,ADVFN,Q,2015-07,Operating Income,76
+NVDA,ADVFN,Q,2015-07,EBITDA,133
+NVDA,ADVFN,Q,2015-07,Net Income,26
+NVDA,ADVFN,Q,2015-07,EPS,0.05
+NVDA,ADVFN,Q,2015-07,Free Cash Flow,139
+NVDA,ADVFN,Q,2015-07,Operating Cash Flow,163
+NVDA,ADVFN,Q,2015-10,Revenue,1305
+NVDA,ADVFN,Q,2015-10,Gross Profit,734
+NVDA,ADVFN,Q,2015-10,Operating Income,245
+NVDA,ADVFN,Q,2015-10,EBITDA,305
+NVDA,ADVFN,Q,2015-10,Net Income,246
+NVDA,ADVFN,Q,2015-10,EPS,0.45
+NVDA,ADVFN,Q,2015-10,Free Cash Flow,238
+NVDA,ADVFN,Q,2015-10,Operating Cash Flow,255
+NVDA,ADVFN,Q,2016-01,Revenue,1401
+NVDA,ADVFN,Q,2016-01,Gross Profit,791
+NVDA,ADVFN,Q,2016-01,Operating Income,252
+NVDA,ADVFN,Q,2016-01,EBITDA,312
+NVDA,ADVFN,Q,2016-01,Net Income,208
+NVDA,ADVFN,Q,2016-01,EPS,0.39
+NVDA,ADVFN,Q,2016-01,Free Cash Flow,496
+NVDA,ADVFN,Q,2016-01,Operating Cash Flow,511
+NVDA,ADVFN,Q,2016-04,Revenue,1305
+NVDA,ADVFN,Q,2016-04,Gross Profit,751
+NVDA,ADVFN,Q,2016-04,Operating Income,245
+NVDA,ADVFN,Q,2016-04,EBITDA,298
+NVDA,ADVFN,Q,2016-04,Net Income,196
+NVDA,ADVFN,Q,2016-04,EPS,0.36
+NVDA,ADVFN,Q,2016-04,Free Cash Flow,254
+NVDA,ADVFN,Q,2016-04,Operating Cash Flow,309
+NVDA,ADVFN,Q,2016-07,Revenue,1428
+NVDA,ADVFN,Q,2016-07,Gross Profit,826
+NVDA,ADVFN,Q,2016-07,Operating Income,317
+NVDA,ADVFN,Q,2016-07,EBITDA,376
+NVDA,ADVFN,Q,2016-07,Net Income,253
+NVDA,ADVFN,Q,2016-07,EPS,0.47
+NVDA,ADVFN,Q,2016-07,Free Cash Flow,152
+NVDA,ADVFN,Q,2016-07,Operating Cash Flow,184
+NVDA,ADVFN,Q,2016-10,Revenue,2004
+NVDA,ADVFN,Q,2016-10,Gross Profit,1183
+NVDA,ADVFN,Q,2016-10,Operating Income,639
+NVDA,ADVFN,Q,2016-10,EBITDA,685
+NVDA,ADVFN,Q,2016-10,Net Income,542
+NVDA,ADVFN,Q,2016-10,EPS,1.01
+NVDA,ADVFN,Q,2016-10,Free Cash Flow,420
+NVDA,ADVFN,Q,2016-10,Operating Cash Flow,458
+NVDA,ADVFN,Q,2017-01,Revenue,2173
+NVDA,ADVFN,Q,2017-01,Gross Profit,1303
+NVDA,ADVFN,Q,2017-01,Operating Income,733
+NVDA,ADVFN,Q,2017-01,EBITDA,791
+NVDA,ADVFN,Q,2017-01,Net Income,654
+NVDA,ADVFN,Q,2017-01,EPS,1.19
+NVDA,ADVFN,Q,2017-01,Free Cash Flow,670
+NVDA,ADVFN,Q,2017-01,Operating Cash Flow,721
+NVDA,ADVFN,Q,2017-04,Revenue,1937
+NVDA,ADVFN,Q,2017-04,Gross Profit,1150
+NVDA,ADVFN,Q,2017-04,Operating Income,554
+NVDA,ADVFN,Q,2017-04,EBITDA,599
+NVDA,ADVFN,Q,2017-04,Net Income,507
+NVDA,ADVFN,Q,2017-04,EPS,0.86
+NVDA,ADVFN,Q,2017-04,Free Cash Flow,228
+NVDA,ADVFN,Q,2017-04,Operating Cash Flow,282
+NVDA,ADVFN,Q,2017-07,Revenue,2230
+NVDA,ADVFN,Q,2017-07,Gross Profit,1302
+NVDA,ADVFN,Q,2017-07,Operating Income,688
+NVDA,ADVFN,Q,2017-07,EBITDA,748
+NVDA,ADVFN,Q,2017-07,Net Income,583
+NVDA,ADVFN,Q,2017-07,EPS,0.98
+NVDA,ADVFN,Q,2017-07,Free Cash Flow,651
+NVDA,ADVFN,Q,2017-07,Operating Cash Flow,705
+NVDA,Stockrow,Y,2017-01,Operating Cash Flow,1672
+NVDA,Stockrow,Y,2017-01,Free Cash Flow,1503
+NVDA,Stockrow,Y,2016-01,Operating Cash Flow,1175
+NVDA,Stockrow,Y,2016-01,Free Cash Flow,1096
+NVDA,Stockrow,Y,2015-01,Operating Cash Flow,906
+NVDA,Stockrow,Y,2015-01,Free Cash Flow,805
+NVDA,Stockrow,Y,2014-01,Operating Cash Flow,835
+NVDA,Stockrow,Y,2014-01,Free Cash Flow,605
+NVDA,Stockrow,Y,2013-01,Operating Cash Flow,824
+NVDA,Stockrow,Y,2013-01,Free Cash Flow,640
+NVDA,Stockrow,Y,2012-01,Operating Cash Flow,909
+NVDA,Stockrow,Y,2012-01,Free Cash Flow,770
+NVDA,Stockrow,Y,2011-01,Operating Cash Flow,675
+NVDA,Stockrow,Y,2011-01,Free Cash Flow,577
+NVDA,Stockrow,Y,2010-01,Operating Cash Flow,487
+NVDA,Stockrow,Y,2010-01,Free Cash Flow,410
+NVDA,Stockrow,Y,2009-01,Operating Cash Flow,249
+NVDA,Stockrow,Y,2009-01,Free Cash Flow,-158
+NVDA,Stockrow,Y,2008-01,Operating Cash Flow,1270
+NVDA,Stockrow,Y,2008-01,Free Cash Flow,1082
+NVDA,Stockrow,Q,2017-07,Operating Cash Flow,705
+NVDA,Stockrow,Q,2017-07,Free Cash Flow,651
+NVDA,Stockrow,Q,2017-04,Operating Cash Flow,282
+NVDA,Stockrow,Q,2017-04,Free Cash Flow,228
+NVDA,Stockrow,Q,2017-01,Operating Cash Flow,721
+NVDA,Stockrow,Q,2017-01,Free Cash Flow,671
+NVDA,Stockrow,Q,2016-10,Operating Cash Flow,458
+NVDA,Stockrow,Q,2016-10,Free Cash Flow,420
+NVDA,Stockrow,Q,2016-07,Operating Cash Flow,200
+NVDA,Stockrow,Q,2016-07,Free Cash Flow,174
+NVDA,Stockrow,Q,2016-05,Operating Cash Flow,319
+NVDA,Stockrow,Q,2016-05,Free Cash Flow,264
+NVDA,Stockrow,Q,2016-01,Operating Cash Flow,511
+NVDA,Stockrow,Q,2016-01,Free Cash Flow,496
+NVDA,Stockrow,Q,2015-10,Operating Cash Flow,255
+NVDA,Stockrow,Q,2015-10,Free Cash Flow,243
+NVDA,Stockrow,Q,2015-07,Operating Cash Flow,163
+NVDA,Stockrow,Q,2015-07,Free Cash Flow,141
+NVDA,Stockrow,Q,2015-04,Operating Cash Flow,246
+NVDA,Stockrow,Q,2015-04,Free Cash Flow,216
+NVDA,Stockrow,Q,2015-01,Operating Cash Flow,443
+NVDA,Stockrow,Q,2015-01,Free Cash Flow,412
+NVDA,Stockrow,Q,2014-10,Operating Cash Flow,216
+NVDA,Stockrow,Q,2014-10,Free Cash Flow,177
+NVDA,Stockrow,Q,2014-07,Operating Cash Flow,96
+NVDA,Stockrow,Q,2014-07,Free Cash Flow,73
+NVDA,Stockrow,Q,2014-04,Operating Cash Flow,151
+NVDA,Stockrow,Q,2014-04,Free Cash Flow,143
+NVDA,Stockrow,Q,2014-01,Operating Cash Flow,400
+NVDA,Stockrow,Q,2014-01,Free Cash Flow,359
+NVDA,Stockrow,Q,2013-10,Operating Cash Flow,162
+NVDA,Stockrow,Q,2013-10,Free Cash Flow,124
+NVDA,Stockrow,Q,2013-07,Operating Cash Flow,96
+NVDA,Stockrow,Q,2013-07,Free Cash Flow,11
+NVDA,Stockrow,Q,2013-04,Operating Cash Flow,175
+NVDA,Stockrow,Q,2013-04,Free Cash Flow,109
+NVDA,Stockrow,Q,2013-01,Operating Cash Flow,451
+NVDA,Stockrow,Q,2013-01,Free Cash Flow,403
+NVDA,Stockrow,Q,2012-10,Operating Cash Flow,181
+NVDA,Stockrow,Q,2012-10,Free Cash Flow,136
+NVDA,Stockrow,Q,2012-07,Operating Cash Flow,200
+NVDA,Stockrow,Q,2012-07,Free Cash Flow,138
+NVDA,Stockrow,Q,2012-04,Operating Cash Flow,-9
+NVDA,Stockrow,Q,2012-04,Free Cash Flow,-38
+NVDA,Stockrow,Q,2012-01,Operating Cash Flow,410
+NVDA,Stockrow,Q,2012-01,Free Cash Flow,365
+NVDA,Stockrow,Q,2011-10,Operating Cash Flow,244
+NVDA,Stockrow,Q,2011-10,Free Cash Flow,205
+NVDA,Stockrow,Q,2011-07,Operating Cash Flow,82
+NVDA,Stockrow,Q,2011-07,Free Cash Flow,58
+NVDA,Stockrow,Q,2011-05,Operating Cash Flow,172
+NVDA,Stockrow,Q,2011-05,Free Cash Flow,141
+NVDA,Stockrow,Q,2011-01,Operating Cash Flow,434
+NVDA,Stockrow,Q,2011-01,Free Cash Flow,413
+NVDA,Stockrow,Q,2010-10,Operating Cash Flow,212
+NVDA,Stockrow,Q,2010-10,Free Cash Flow,190
+NVDA,Stockrow,Q,2010-08,Operating Cash Flow,34
+NVDA,Stockrow,Q,2010-08,Free Cash Flow,-3
+NVDA,Stockrow,Q,2010-05,Operating Cash Flow,-5
+NVDA,Stockrow,Q,2010-05,Free Cash Flow,-22
+NVDA,Stockrow,Q,2010-01,Operating Cash Flow,69
+NVDA,Stockrow,Q,2010-01,Free Cash Flow,46
+NVDA,Stockrow,Q,2009-10,Operating Cash Flow,141
+NVDA,Stockrow,Q,2009-10,Free Cash Flow,124
+NVDA,Stockrow,Q,2009-07,Operating Cash Flow,135
+NVDA,Stockrow,Q,2009-07,Free Cash Flow,117
+NVDA,Stockrow,Q,2009-04,Operating Cash Flow,142
+NVDA,Stockrow,Q,2009-04,Free Cash Flow,121
+NVDA,Stockrow,Q,2009-01,Operating Cash Flow,-19
+NVDA,Stockrow,Q,2009-01,Free Cash Flow,-62
+NVDA,Stockrow,Q,2008-10,Operating Cash Flow,43
+NVDA,Stockrow,Q,2008-10,Free Cash Flow,-66
+NVDA,Stockrow,Q,2008-07,Operating Cash Flow,80
+NVDA,Stockrow,Q,2008-07,Free Cash Flow,27
+NVDA,Stockrow,Q,2008-04,Operating Cash Flow,145
+NVDA,Stockrow,Q,2008-04,Free Cash Flow,-56
+NVDA,Stockrow,Q,2008-01,Operating Cash Flow,252
+NVDA,Stockrow,Q,2008-01,Free Cash Flow,182
+NVDA,Stockrow,Q,2007-10,Operating Cash Flow,400
+NVDA,Stockrow,Q,2007-10,Free Cash Flow,330
+NVDA,Stockrow,Y,2017-01,Revenue,6910
+NVDA,Stockrow,Y,2017-01,Gross Profit,4063
+NVDA,Stockrow,Y,2017-01,Operating Income,1934
+NVDA,Stockrow,Y,2017-01,Net Income,1666
+NVDA,Stockrow,Y,2017-01,EPS,3.08
+NVDA,Stockrow,Y,2017-01,EBITDA,2150
+NVDA,Stockrow,Y,2016-01,Revenue,5010
+NVDA,Stockrow,Y,2016-01,Gross Profit,2811
+NVDA,Stockrow,Y,2016-01,Operating Income,747
+NVDA,Stockrow,Y,2016-01,Net Income,614
+NVDA,Stockrow,Y,2016-01,EPS,1.13
+NVDA,Stockrow,Y,2016-01,EBITDA,987
+NVDA,Stockrow,Y,2015-01,Revenue,4682
+NVDA,Stockrow,Y,2015-01,Gross Profit,2599
+NVDA,Stockrow,Y,2015-01,Operating Income,759
+NVDA,Stockrow,Y,2015-01,Net Income,631
+NVDA,Stockrow,Y,2015-01,EPS,1.14
+NVDA,Stockrow,Y,2015-01,EBITDA,1021
+NVDA,Stockrow,Y,2014-01,Revenue,4130
+NVDA,Stockrow,Y,2014-01,Gross Profit,2268
+NVDA,Stockrow,Y,2014-01,Operating Income,496
+NVDA,Stockrow,Y,2014-01,Net Income,440
+NVDA,Stockrow,Y,2014-01,EPS,0.75
+NVDA,Stockrow,Y,2014-01,EBITDA,759
+NVDA,Stockrow,Y,2013-01,Revenue,4280
+NVDA,Stockrow,Y,2013-01,Gross Profit,2226
+NVDA,Stockrow,Y,2013-01,Operating Income,648
+NVDA,Stockrow,Y,2013-01,Net Income,562
+NVDA,Stockrow,Y,2013-01,EPS,0.91
+NVDA,Stockrow,Y,2013-01,EBITDA,891
+NVDA,Stockrow,Y,2012-01,Revenue,3997
+NVDA,Stockrow,Y,2012-01,Gross Profit,2056
+NVDA,Stockrow,Y,2012-01,Operating Income,648
+NVDA,Stockrow,Y,2012-01,Net Income,581
+NVDA,Stockrow,Y,2012-01,EPS,0.96
+NVDA,Stockrow,Y,2012-01,EBITDA,870
+NVDA,Stockrow,Y,2011-01,Revenue,3543
+NVDA,Stockrow,Y,2011-01,Gross Profit,1409
+NVDA,Stockrow,Y,2011-01,Operating Income,255
+NVDA,Stockrow,Y,2011-01,Net Income,253
+NVDA,Stockrow,Y,2011-01,EPS,0.44
+NVDA,Stockrow,Y,2011-01,EBITDA,461
+NVDA,Stockrow,Y,2010-01,Revenue,3326
+NVDA,Stockrow,Y,2010-01,Gross Profit,1176
+NVDA,Stockrow,Y,2010-01,Operating Income,-98
+NVDA,Stockrow,Y,2010-01,Net Income,-67
+NVDA,Stockrow,Y,2010-01,EPS,-0.12
+NVDA,Stockrow,Y,2010-01,EBITDA,117
+NVDA,Stockrow,Y,2009-01,Revenue,3424
+NVDA,Stockrow,Y,2009-01,Gross Profit,1174
+NVDA,Stockrow,Y,2009-01,Operating Income,-70
+NVDA,Stockrow,Y,2009-01,Net Income,-30
+NVDA,Stockrow,Y,2009-01,EPS,-0.05
+NVDA,Stockrow,Y,2009-01,EBITDA,142
+NVDA,Stockrow,Y,2008-01,Revenue,4097
+NVDA,Stockrow,Y,2008-01,Gross Profit,1869
+NVDA,Stockrow,Y,2008-01,Operating Income,836
+NVDA,Stockrow,Y,2008-01,Net Income,797
+NVDA,Stockrow,Y,2008-01,EPS,1.45
+NVDA,Stockrow,Y,2008-01,EBITDA,1034
+NVDA,Stockrow,Q,2017-07,Revenue,2230
+NVDA,Stockrow,Q,2017-07,Gross Profit,1302
+NVDA,Stockrow,Q,2017-07,Operating Income,688
+NVDA,Stockrow,Q,2017-07,Net Income,583
+NVDA,Stockrow,Q,2017-07,EPS,0.98
+NVDA,Stockrow,Q,2017-07,EBITDA,748
+NVDA,Stockrow,Q,2017-04,Revenue,1937
+NVDA,Stockrow,Q,2017-04,Gross Profit,1150
+NVDA,Stockrow,Q,2017-04,Operating Income,554
+NVDA,Stockrow,Q,2017-04,Net Income,507
+NVDA,Stockrow,Q,2017-04,EPS,0.86
+NVDA,Stockrow,Q,2017-04,EBITDA,599
+NVDA,Stockrow,Q,2017-01,Revenue,2173
+NVDA,Stockrow,Q,2017-01,Gross Profit,1303
+NVDA,Stockrow,Q,2017-01,Operating Income,733
+NVDA,Stockrow,Q,2017-01,Net Income,654
+NVDA,Stockrow,Q,2017-01,EPS,1.19
+NVDA,Stockrow,Q,2017-01,EBITDA,791
+NVDA,Stockrow,Q,2016-10,Revenue,2004
+NVDA,Stockrow,Q,2016-10,Gross Profit,1183
+NVDA,Stockrow,Q,2016-10,Operating Income,639
+NVDA,Stockrow,Q,2016-10,Net Income,542
+NVDA,Stockrow,Q,2016-10,EPS,1.01
+NVDA,Stockrow,Q,2016-10,EBITDA,685
+NVDA,Stockrow,Q,2016-07,Revenue,1428
+NVDA,Stockrow,Q,2016-07,Gross Profit,826
+NVDA,Stockrow,Q,2016-07,Operating Income,317
+NVDA,Stockrow,Q,2016-07,Net Income,261
+NVDA,Stockrow,Q,2016-07,EPS,0.49
+NVDA,Stockrow,Q,2016-07,EBITDA,376
+NVDA,Stockrow,Q,2016-05,Revenue,1305
+NVDA,Stockrow,Q,2016-05,Gross Profit,751
+NVDA,Stockrow,Q,2016-05,Operating Income,245
+NVDA,Stockrow,Q,2016-05,Net Income,208
+NVDA,Stockrow,Q,2016-05,EPS,0.39
+NVDA,Stockrow,Q,2016-05,EBITDA,298
+NVDA,Stockrow,Q,2016-01,Revenue,1401
+NVDA,Stockrow,Q,2016-01,Gross Profit,791
+NVDA,Stockrow,Q,2016-01,Operating Income,252
+NVDA,Stockrow,Q,2016-01,Net Income,208
+NVDA,Stockrow,Q,2016-01,EPS,0.38
+NVDA,Stockrow,Q,2016-01,EBITDA,312
+NVDA,Stockrow,Q,2015-10,Revenue,1305
+NVDA,Stockrow,Q,2015-10,Gross Profit,734
+NVDA,Stockrow,Q,2015-10,Operating Income,245
+NVDA,Stockrow,Q,2015-10,Net Income,246
+NVDA,Stockrow,Q,2015-10,EPS,0.45
+NVDA,Stockrow,Q,2015-10,EBITDA,305
+NVDA,Stockrow,Q,2015-07,Revenue,1153
+NVDA,Stockrow,Q,2015-07,Gross Profit,634
+NVDA,Stockrow,Q,2015-07,Operating Income,76
+NVDA,Stockrow,Q,2015-07,Net Income,26
+NVDA,Stockrow,Q,2015-07,EPS,0.05
+NVDA,Stockrow,Q,2015-07,EBITDA,133
+NVDA,Stockrow,Q,2015-04,Revenue,1151
+NVDA,Stockrow,Q,2015-04,Gross Profit,653
+NVDA,Stockrow,Q,2015-04,Operating Income,175
+NVDA,Stockrow,Q,2015-04,Net Income,134
+NVDA,Stockrow,Q,2015-04,EPS,0.24
+NVDA,Stockrow,Q,2015-04,EBITDA,238
+NVDA,Stockrow,Q,2015-01,Revenue,1251
+NVDA,Stockrow,Q,2015-01,Gross Profit,699
+NVDA,Stockrow,Q,2015-01,Operating Income,231
+NVDA,Stockrow,Q,2015-01,Net Income,194
+NVDA,Stockrow,Q,2015-01,EPS,0.35
+NVDA,Stockrow,Q,2015-01,EBITDA,293
+NVDA,Stockrow,Q,2014-10,Revenue,1225
+NVDA,Stockrow,Q,2014-10,Gross Profit,676
+NVDA,Stockrow,Q,2014-10,Operating Income,213
+NVDA,Stockrow,Q,2014-10,Net Income,173
+NVDA,Stockrow,Q,2014-10,EPS,0.32
+NVDA,Stockrow,Q,2014-10,EBITDA,275
+NVDA,Stockrow,Q,2014-07,Revenue,1103
+NVDA,Stockrow,Q,2014-07,Gross Profit,619
+NVDA,Stockrow,Q,2014-07,Operating Income,163
+NVDA,Stockrow,Q,2014-07,Net Income,128
+NVDA,Stockrow,Q,2014-07,EPS,0.23
+NVDA,Stockrow,Q,2014-07,EBITDA,223
+NVDA,Stockrow,Q,2014-04,Revenue,1103
+NVDA,Stockrow,Q,2014-04,Gross Profit,604
+NVDA,Stockrow,Q,2014-04,Operating Income,151
+NVDA,Stockrow,Q,2014-04,Net Income,137
+NVDA,Stockrow,Q,2014-04,EPS,0.24
+NVDA,Stockrow,Q,2014-04,EBITDA,229
+NVDA,Stockrow,Q,2014-01,Revenue,1144
+NVDA,Stockrow,Q,2014-01,Gross Profit,619
+NVDA,Stockrow,Q,2014-01,Operating Income,166
+NVDA,Stockrow,Q,2014-01,Net Income,146
+NVDA,Stockrow,Q,2014-01,EPS,0.26
+NVDA,Stockrow,Q,2014-01,EBITDA,230
+NVDA,Stockrow,Q,2013-10,Revenue,1053
+NVDA,Stockrow,Q,2013-10,Gross Profit,584
+NVDA,Stockrow,Q,2013-10,Operating Income,140
+NVDA,Stockrow,Q,2013-10,Net Income,118
+NVDA,Stockrow,Q,2013-10,EPS,0.2
+NVDA,Stockrow,Q,2013-10,EBITDA,205
+NVDA,Stockrow,Q,2013-07,Revenue,977
+NVDA,Stockrow,Q,2013-07,Gross Profit,545
+NVDA,Stockrow,Q,2013-07,Operating Income,105
+NVDA,Stockrow,Q,2013-07,Net Income,96
+NVDA,Stockrow,Q,2013-07,EPS,0.16
+NVDA,Stockrow,Q,2013-07,EBITDA,174
+NVDA,Stockrow,Q,2013-04,Revenue,954
+NVDA,Stockrow,Q,2013-04,Gross Profit,518
+NVDA,Stockrow,Q,2013-04,Operating Income,82
+NVDA,Stockrow,Q,2013-04,Net Income,77
+NVDA,Stockrow,Q,2013-04,EPS,0.13
+NVDA,Stockrow,Q,2013-04,EBITDA,148
+NVDA,Stockrow,Q,2013-01,Revenue,1106
+NVDA,Stockrow,Q,2013-01,Gross Profit,585
+NVDA,Stockrow,Q,2013-01,Operating Income,187
+NVDA,Stockrow,Q,2013-01,Net Income,173
+NVDA,Stockrow,Q,2013-01,EPS,0.28
+NVDA,Stockrow,Q,2013-01,EBITDA,247
+NVDA,Stockrow,Q,2012-10,Revenue,1204
+NVDA,Stockrow,Q,2012-10,Gross Profit,636
+NVDA,Stockrow,Q,2012-10,Operating Income,248
+NVDA,Stockrow,Q,2012-10,Net Income,209
+NVDA,Stockrow,Q,2012-10,EPS,0.34
+NVDA,Stockrow,Q,2012-10,EBITDA,310
+NVDA,Stockrow,Q,2012-07,Revenue,1044
+NVDA,Stockrow,Q,2012-07,Gross Profit,540
+NVDA,Stockrow,Q,2012-07,Operating Income,139
+NVDA,Stockrow,Q,2012-07,Net Income,119
+NVDA,Stockrow,Q,2012-07,EPS,0.19
+NVDA,Stockrow,Q,2012-07,EBITDA,201
+NVDA,Stockrow,Q,2012-04,Revenue,924
+NVDA,Stockrow,Q,2012-04,Gross Profit,463
+NVDA,Stockrow,Q,2012-04,Operating Income,72
+NVDA,Stockrow,Q,2012-04,Net Income,60
+NVDA,Stockrow,Q,2012-04,EPS,0.1
+NVDA,Stockrow,Q,2012-04,EBITDA,131
+NVDA,Stockrow,Q,2012-01,Revenue,953
+NVDA,Stockrow,Q,2012-01,Gross Profit,490
+NVDA,Stockrow,Q,2012-01,Operating Income,122
+NVDA,Stockrow,Q,2012-01,Net Income,116
+NVDA,Stockrow,Q,2012-01,EPS,0.19
+NVDA,Stockrow,Q,2012-01,EBITDA,179
+NVDA,Stockrow,Q,2011-10,Revenue,1066
+NVDA,Stockrow,Q,2011-10,Gross Profit,556
+NVDA,Stockrow,Q,2011-10,Operating Income,197
+NVDA,Stockrow,Q,2011-10,Net Income,178
+NVDA,Stockrow,Q,2011-10,EPS,0.29
+NVDA,Stockrow,Q,2011-10,EBITDA,257
+NVDA,Stockrow,Q,2011-07,Revenue,1016
+NVDA,Stockrow,Q,2011-07,Gross Profit,525
+NVDA,Stockrow,Q,2011-07,Operating Income,174
+NVDA,Stockrow,Q,2011-07,Net Income,151
+NVDA,Stockrow,Q,2011-07,EPS,0.25
+NVDA,Stockrow,Q,2011-07,EBITDA,229
+NVDA,Stockrow,Q,2011-05,Revenue,962
+NVDA,Stockrow,Q,2011-05,Gross Profit,484
+NVDA,Stockrow,Q,2011-05,Operating Income,151
+NVDA,Stockrow,Q,2011-05,Net Income,135
+NVDA,Stockrow,Q,2011-05,EPS,0.23
+NVDA,Stockrow,Q,2011-05,EBITDA,204
+NVDA,Stockrow,Q,2011-01,Revenue,886
+NVDA,Stockrow,Q,2011-01,Gross Profit,426
+NVDA,Stockrow,Q,2011-01,Operating Income,179
+NVDA,Stockrow,Q,2011-01,Net Income,171
+NVDA,Stockrow,Q,2011-01,EPS,0.3
+NVDA,Stockrow,Q,2011-01,EBITDA,235
+NVDA,Stockrow,Q,2010-10,Revenue,843
+NVDA,Stockrow,Q,2010-10,Gross Profit,392
+NVDA,Stockrow,Q,2010-10,Operating Income,103
+NVDA,Stockrow,Q,2010-10,Net Income,84
+NVDA,Stockrow,Q,2010-10,EPS,0.15
+NVDA,Stockrow,Q,2010-10,EBITDA,150
+NVDA,Stockrow,Q,2010-08,Revenue,811
+NVDA,Stockrow,Q,2010-08,Gross Profit,134
+NVDA,Stockrow,Q,2010-08,Operating Income,-175
+NVDA,Stockrow,Q,2010-08,Net Income,-140
+NVDA,Stockrow,Q,2010-08,EPS,-0.25
+NVDA,Stockrow,Q,2010-08,EBITDA,-122
+NVDA,Stockrow,Q,2010-05,Revenue,1001
+NVDA,Stockrow,Q,2010-05,Gross Profit,456
+NVDA,Stockrow,Q,2010-05,Operating Income,147
+NVDA,Stockrow,Q,2010-05,Net Income,137
+NVDA,Stockrow,Q,2010-05,EPS,0.24
+NVDA,Stockrow,Q,2010-05,EBITDA,197
+NVDA,Stockrow,Q,2010-01,Revenue,982
+NVDA,Stockrow,Q,2010-01,Gross Profit,438
+NVDA,Stockrow,Q,2010-01,Operating Income,134
+NVDA,Stockrow,Q,2010-01,Net Income,131
+NVDA,Stockrow,Q,2010-01,EPS,0.24
+NVDA,Stockrow,Q,2010-01,EBITDA,190
+NVDA,Stockrow,Q,2009-10,Revenue,903
+NVDA,Stockrow,Q,2009-10,Gross Profit,391
+NVDA,Stockrow,Q,2009-10,Operating Income,107
+NVDA,Stockrow,Q,2009-10,Net Income,107
+NVDA,Stockrow,Q,2009-10,EPS,0.2
+NVDA,Stockrow,Q,2009-10,EBITDA,158
+NVDA,Stockrow,Q,2009-07,Revenue,776
+NVDA,Stockrow,Q,2009-07,Gross Profit,156
+NVDA,Stockrow,Q,2009-07,Operating Income,-110
+NVDA,Stockrow,Q,2009-07,Net Income,-105
+NVDA,Stockrow,Q,2009-07,EPS,-0.19
+NVDA,Stockrow,Q,2009-07,EBITDA,-57
+NVDA,Stockrow,Q,2009-04,Revenue,664
+NVDA,Stockrow,Q,2009-04,Gross Profit,189
+NVDA,Stockrow,Q,2009-04,Operating Income,-230
+NVDA,Stockrow,Q,2009-04,Net Income,-201
+NVDA,Stockrow,Q,2009-04,EPS,-0.37
+NVDA,Stockrow,Q,2009-04,EBITDA,-174
+NVDA,Stockrow,Q,2009-01,Revenue,481
+NVDA,Stockrow,Q,2009-01,Gross Profit,141
+NVDA,Stockrow,Q,2009-01,Operating Income,-175
+NVDA,Stockrow,Q,2009-01,Net Income,-147
+NVDA,Stockrow,Q,2009-01,EPS,-0.26
+NVDA,Stockrow,Q,2009-01,EBITDA,-121
+NVDA,Stockrow,Q,2008-10,Revenue,897
+NVDA,Stockrow,Q,2008-10,Gross Profit,367
+NVDA,Stockrow,Q,2008-10,Operating Income,56
+NVDA,Stockrow,Q,2008-10,Net Income,61
+NVDA,Stockrow,Q,2008-10,EPS,0.11
+NVDA,Stockrow,Q,2008-10,EBITDA,110
+NVDA,Stockrow,Q,2008-07,Revenue,892
+NVDA,Stockrow,Q,2008-07,Gross Profit,149
+NVDA,Stockrow,Q,2008-07,Operating Income,-155
+NVDA,Stockrow,Q,2008-07,Net Income,-120
+NVDA,Stockrow,Q,2008-07,EPS,-0.22
+NVDA,Stockrow,Q,2008-07,EBITDA,-100
+NVDA,Stockrow,Q,2008-04,Revenue,1153
+NVDA,Stockrow,Q,2008-04,Gross Profit,514
+NVDA,Stockrow,Q,2008-04,Operating Income,202
+NVDA,Stockrow,Q,2008-04,Net Income,176
+NVDA,Stockrow,Q,2008-04,EPS,0.32
+NVDA,Stockrow,Q,2008-04,EBITDA,254
+NVDA,Stockrow,Q,2008-01,Revenue,1202
+NVDA,Stockrow,Q,2008-01,Gross Profit,549
+NVDA,Stockrow,Q,2008-01,Operating Income,262
+NVDA,Stockrow,Q,2008-01,Net Income,256
+NVDA,Stockrow,Q,2008-01,EPS,0.46
+NVDA,Stockrow,Q,2008-01,EBITDA,316
+NVDA,Stockrow,Q,2007-10,Revenue,1115
+NVDA,Stockrow,Q,2007-10,Gross Profit,515
+NVDA,Stockrow,Q,2007-10,Operating Income,247
+NVDA,Stockrow,Q,2007-10,Net Income,235
+NVDA,Stockrow,Q,2007-10,EPS,0.42
+NVDA,Stockrow,Q,2007-10,EBITDA,299
